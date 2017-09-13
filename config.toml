@@ -1,6 +1,6 @@
 # Page settings 
 publishdir = "/"
-BaseURL = "http://inomial.tk/"
+BaseURL = "/"
 canonifyURLs = true
 layoutDir = "layouts"
 title = "inomial"
