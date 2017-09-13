@@ -1,0 +1,200 @@
++++
+title = "Smile 5.4.1, 5.4.2, 5.4.3 – release note summary"
+date = 2013-03-01T14:29:04+04:00
+type = "release"
+layout = "single"
+section = 'release'
+img = "/images/release5.jpg"
++++
+
+<p>Smile 5.4.3 has been released. This is a maintenance release that includes key improvements and bug fixes.</p>
+<h3>Enhancements</h3>
+<h5>5.4.3</h5>
+<ul>
+<li>Subscription document types can now access custom fields for the subscription (previously only account custom fields where available in stationery).</li>
+<li>Various stationery fields that were available in one document type have been added to others (with more to come).</li>
+<li>New DNS service type that has a message bus listener and can write out Bind zone files for management of DNS from Smile.</li>
+<li>Improvements to the display of CommBiz batch payments in a page.</li>
+</ul>
+<h5>5.4.2</h5>
+<ul>
+<li>A number of&nbsp;enhancements made to the new sales report.</li>
+<li>Ordering Master/Child subscriptions in a package.</li>
+<li>Child/Master subscription event bindings.</li>
+<li>Various interface cleanups.</li>
+<li>Transfer, instead of Porting, of CTS Service.</li>
+<li>Improvement to the call listings summary for voice subscriptions.</li>
+</ul>
+<h5>5.4.1</h5>
+<ul>
+<li>Extensions to prepaid for different prepaid types that only apply at certain times/days.</li>
+<li>Public SQL reporting schema to allow for better ad hoc reporting using external reporting tools.</li>
+<li>UI to bar and unbar (baring stops authorisation and can apply a feature to subscriptions but does not affect billing in the way suspending does).</li>
+<li>Initial invoice for setup fees are now created on subscription activation (it may be deferred using the service settings).</li>
+<li>SMS notifications.</li>
+<li>Company name and ABN displayed in CAT to be configurable per CAT service in CAT potal configuration (defaults to Company Preferences).</li>
+<li>Nightly task purges tasklog records that are more then 3 months old.</li>
+<li>Event logging when re-rate button is clicked.</li>
+<li>Enhancements to the Australia Post Payment importer.</li>
+<li>Supports displaying and operating on subscriptions in advanced search.</li>
+<li>Various improvements to future billing.</li>
+<li>Statements created by Credit Control can be batched in dispatch instead of being sent out directly.</li>
+<li>Add hint type configuration in payment method. Hint may be: none, partial, full number (note full number is not available for credit cards). This allows showing cheque numbers in full in the hint so they can be seen on receipts.</li>
+<li>Generic Smile CSV importer imports the description field.</li>
+<li>Pre-paid can now be made to expire at the end of a rating period.</li>
+<li>Force success’ button on provision request to allow operator to override provisioning failures.</li>
+<li>A separate auto approval limit may now be set for credits.</li>
+<li>Can create a url to go directly to a ticket provided a ticket number (this can be done in email templates that can be sent form the ticket). This is for Smile operators, they need to be logged into Smile already for this to work.</li>
+<li>Improvements to emailing from an advanced search.</li>
+<li>Eftel CDR importer and transaction importer.</li>
+<li>Add configuration to allow better management of database connections.</li>
+<li>Add a document field for over 100% usage – for usage alerts emails. This also has a conditional flag so you can determine if the user has gone over 100% when including text in the email (or stationey).</li>
+<li>Add a substitution code ‘HTML Formatted Australia Post Address without Contacts Name’ to Statement document type.</li>
+<li>Add billing item description column billingitems table to invoice stationery.</li>
+<li>Create a debit allocation document table for Itemised Credit document type and insert relevant document columns.</li>
+<li>More options for statement stationery.</li>
+<li>New Smile API Account.getAccountSummary(). This lists account balance, account treatment level and aged balance.</li>
+<li>SOAP API: changes to allow ordering of private plans.</li>
+<li>It is now possible to to set the activation date via order form.</li>
+<li>Provide ability to specify the start date of a subscription through SOAP/CAT order for</li>
+<li>Decimal value support for custom field attribute types in SOAP Account/Subscription get response.</li>
+<li>Make it crystal clear that fromTimestamp must be provided for subscription cancel SOAP request.</li>
+<li>Improve logging when exceptions are thrown during cancel subscription via soap.</li>
+<li>Update soap client to allow cancel subscription to provide close date.</li>
+<li>Add additional fields to subscription document used by API.</li>
+<li>Retrieve additional fields via SOAP getAccount (Invoicing period, rating period, cost centre, AC Terms, timezone).</li>
+<li>SOAP WS method to get a single transaction from account by supplying transaction number.</li>
+<li>Remove namespace from primitive soap parameter/result (subscriptonFeatureId).</li>
+<li>Support for changing passwords via SOAP API.</li>
+<li>API to apply and stop features.</li>
+<li>Prevent negative spend limit alert thresholds from being set via SOAP.</li>
+<li>Order the spend limit alert thresholds in API.</li>
+<li>Add API for overriding spend limits.</li>
+<li>Spendmanagement endpoint will now log unexpected exceptions in the log.</li>
+<li>Expose usage alert group info on SpendManagement SOAP API. The values returned are those from the most recent pre-rate.</li>
+<li>Expose plan schedule and included values in API.</li>
+<li>Add ability to get plan schedule from subscription API.</li>
+<li>Add spend management API, and ability to get current value pool state from this API.</li>
+<li>New SOAP method for getting the list of rating periods (billing periods) out of a subscription.</li>
+<li>Get current period’s rated usage out of smile.</li>
+<li>Update WSOrder endpoint to detect when the xml provided is in the wrong namespace.</li>
+<li>Implement suspend &amp; resume in the API.</li>
+<li>SOAP API triggered plan changes will now trigger planChangePoller immediately.</li>
+<li>SOAP API triggered plan changes will now log an event to the event log.</li>
+<li>Trigger a features changed message when a future plan change is activated.</li>
+<li>Can mark multiple items as unchargeable/chargeable at once for radius activity.</li>
+<li>Changed the ‘Not Due’ aging title to Current.</li>
+<li>Account’s disposition added to overdue invoices report.</li>
+<li>Child username rather than the master username displayed in ‘Active RADIUS Connections’.</li>
+<li>Credit control document actions can now be queued in dispatch system.</li>
+<li>Wider column for the subject input box of the e-mail form.</li>
+<li>Report menu interface changed to make it much easier to navigate, includes organising menus into groups, showing tool tips for report descriptions.</li>
+<li>Hide deprecated plans when cloning a plan.</li>
+<li>Reduce the tool tip delay from 5 seconds to 1 to make it easier to use tool tips.</li>
+<li>Improvements to task user interface to make it easier to run a task immediately.</li>
+<li>Make it easier to read the destination’s tariff table by not displaying $0.00 if tariff doesn’t specify a rate/flagfall.</li>
+<li>Add description column to the CDR activity page.</li>
+<li>Improvements to the pre-rate status report.</li>
+<li>Payments menu reordered, descriptions clarified and icons added.</li>
+<li>Display duration for video calls.</li>
+<li>Allow cvv field to be visible when using stored payment details as no cvv is stored in bankinfo.</li>
+<li>Deprecated stationary with doc type ‘account’ no longer visible on account.</li>
+<li>Limit connection history table in CAT reduce load time.</li>
+<li>Add table indexes, involved in payments and bill generation.</li>
+<li>Add indexes to some commonly used payment fields.</li>
+<li>Improve the performance of the event log on accounts.</li>
+<li>optimized queries for displaying FlowControl service usage.</li>
+<li>Add some indexes to optus WSG importer tables to drastically improve performance.</li>
+<li>Tuning on the queries to generate the trial-balance report and daily connection report to improve the performance.</li>
+<li>Memory usage optimisations.</li>
+<li>The prepaid tab now displays the remaining usage for the given charge type, even if it’s not time.</li>
+<li>Make importer summary take company into account (eg generate invoices page).</li>
+<li>Change the default charging mode from ‘In arrears’ to ‘In advance’ on Recurring Charge page.</li>
+<li>Defer final invoice of subscription closed by ticket (similar to SOAP).</li>
+<li>Add the ability to associate unassociated billing items to an existing user.</li>
+<li>Add an event log entry when migrating subscriptions between accounts.</li>
+<li>Decline a payment that amount is less than 2 dollars before submitting it to the ezidebit (who would decline the whole batch).</li>
+<li>Make disposition update task work with larger numbers of accounts.</li>
+<li>Unifies the credentials used for connecting to email server.</li>
+<li>Subscriptions on contract can now be locked/unlocked.</li>
+<li>When (p)re-rating a period of error status and no errors are encountered the status will be set back to open.</li>
+<li>Add validation for the cvv property on payments.</li>
+<li>Add Video Call call type.</li>
+<li>GST is now calculated on a per call basis rather than a per line item basis.</li>
+<li>Value Pools &amp; Spend Limits are now GST Aware. The included amounts and limits specified are GST inclusive.</li>
+<li>Spend limit treatments: can now configure a treatment to apply to subscriptions that exceed their spend limit on the spend limit configuration; Smile will no longer reflect changes made to international barring or roaming from the customer’s handset (and will clobber them).</li>
+</ul>
+<h3>Noteworthy bug fixes</h3>
+<h5>5.4.3</h5>
+<ul>
+<li>Improvements to the permissions on some forms accessible by smile operators.</li>
+<li>Smile is now more resilient to a restart while in the middle of a billing run.</li>
+<li>Changing passwords in CAT using Internet Explorer 9 would error when trying to display the confirm dialogue box.</li>
+<li>In rare cases consumption of prepaid during billing could fail due to a specific usage block.</li>
+</ul>
+<h5>5.4.2</h5>
+<ul>
+<li>Empty custom collection entries could cause an error.</li>
+<li>CTOP importer causing deadlock.</li>
+<li>Content type problems with emails.</li>
+<li>Bug in activation of subscriptions.</li>
+<li>Resolved a possible conflict between pre-rating and billing.</li>
+<li>Removed possibilities for deadlocks in the pre-rate task.</li>
+<li>CAT now excludes pending payments from the amount to pay when offering to put through a payment straight after a customer updates their stored payment details.</li>
+<li>Ticket description was not saved if a ticket was closed immediately after adding the ticket.</li>
+</ul>
+<h5>5.4.1</h5>
+<ul>
+<li>Fixed an NPE when getting an order via SOAP that doesn’t have a user object associated with it (eg old-style order).</li>
+<li>Prevent the ratingUpdated (and the associated message bus events) from occurring more than once per event.</li>
+<li>Fixed alignment of rows in Sales Report – Customisable for specific browser.</li>
+<li>Slight improvement of the accuracy of the import error count displayed on the dashboard.</li>
+<li>When creating an invoice, the calendar no longer gets hidden behind the left side bar (effected only specific browsers).</li>
+<li>Fixed a problem where the tariff importer won’t find a destination if there’s a destination with the same name against a user.</li>
+<li>Cloning plan no longer removes usage alert group from new plan’s plan rules.</li>
+<li>Correct an issue where activity table didn’t refresh after marking chargeable/unchargeable.</li>
+<li>Smile pre-rating error report shows accounts after invoice approved.</li>
+<li>Fixed defect that prevented billing for an account that had billing errors.</li>
+<li>Fixed an issue that prevents billing on an account that had a billing error last time it was billed.</li>
+<li>Fixed issue that prevented approval from being cancelled if it included 2gb or more prepaid usage.</li>
+<li>Fixed a bug that the New Sales report does not generate correctly at the first time.</li>
+<li>Fixed the bug prevent from submitting manual payment when using stored payment info.</li>
+<li>Sales report category should only appear on transaction of credit note, debit note, surcharge and surcharge reversal.</li>
+<li>Fixed a bug preventing future billing from working for a freshly created subscription.</li>
+<li>Rerating will now recover from catastrophic failure a little nicer, resetting the rerate request back to how it was before the failure so it can be nicely retried.</li>
+<li>Fixed a bug that overdue value substitution code {agedBalanceOverdue} does not work.</li>
+<li>Fixed an issue that prevented approvals from being cancelled.</li>
+<li>Fixed a bug where status E billing periods in the future will prevent you from cancelling an invoice.</li>
+<li>Make plan radius features cache refresh after cloning a plan.</li>
+<li>Fixed deletion of plans with radius features.</li>
+<li>Added capabilities for: Account LHS menu; configure billing cycle; changing account/subscription discount category; changing subscription cost centre; adding/editing subscription recurring charges; editing usage alerts.</li>
+<li>Fixed another bug where first loading rating engines for some subscriptions will not trigger a first rerate.</li>
+<li>Fixed a bug that SNMP is choosing wrong total to report on for billing item statistics.</li>
+<li>Discounts are now applied proportionally to the amount and the GST amount, rather than having the GST amount calculated after the discount is applied.</li>
+<li>Fixed deleting subscriptions.</li>
+<li>Added capability for delete account.</li>
+<li>Fixed a bug that calls are uncharged on a future closed service.</li>
+<li>Fixed a bug that an invoice sent manually via email is not logged in the dispatch log.</li>
+<li>Fixed a bug that replaced billing items are mistakenly counted and displayed on activity page.</li>
+<li>Fixed an NPE when pushing through a change plan request that doesn’t need non-voice plans removed first.</li>
+<li>Fixed a null pointer exception — isBarred() is null sometimes.</li>
+<li>Fixed a race condition that sometimes crops up when locking a subscription (workaround for glassfish bug).</li>
+<li>Fixed a bug prevent from associating billing items from the unassociated billing items report when there are more than one user using same username.</li>
+<li>Stopped usage dated out of the period breaking the usage alert group graphs in both CAT and Smile.</li>
+<li>Revoke the permission to edit menus and permissions from non-system-supervisors.</li>
+<li>Flow control activity page now correctly displays rated values.</li>
+<li>Disallow smile operators from begin added as members of non-group principals (eg other smile operators).</li>
+<li>Records where email is being sent in the dispatch log.</li>
+<li>Prevent smile operators from escalating their own permissions. Smile operators may now only modify permissions that they are granted.</li>
+<li>Fixed a problem viewing some commission earners.</li>
+<li>Value pool alerts code now ignores ‘hidden’ value pools (eg the ‘No Cap’ value pool). This is particularly important for locked subscriptions where the No Cap value pool doesn’t have a related service.</li>
+<li>Fixed bug which was stopping accounts from being deleted in some cases.</li>
+<li>Removed obsolete Daily NAS port usage report.</li>
+<li>Removed possibilities for deadlocks in the pre-rate task.</li>
+<li>Fixed a bug that the Confirm message is not popped up in IE 9.0, which stops the payment via CAT.</li>
+<li>Fixed a bug that when ebill gets a new tariff record, it invalidates all the old ones. It now sets the end date of the old ones.</li>
+<li>Fixed an issue related to value pools when cloning a service.</li>
+<li>Suppress value pool and spend limit notifications if the current spend is $0.</li>
+<li>Correct a defect preventing value pool alerts from working.</li>
+</ul>
+<p>Minor bug fixes and changes to custom code are not included in this summary.</p>

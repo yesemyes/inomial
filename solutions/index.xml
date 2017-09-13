@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solutions on inomial</title>
+    <link>http://inomial.tk/solutions/</link>
+    <description>Recent content in Solutions on inomial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 14:57:58 +0400</lastBuildDate>
+    
+	<atom:link href="http://inomial.tk/solutions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://inomial.tk/solutions/analytics/</link>
+      <pubDate>Fri, 14 Jul 2017 14:57:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/analytics/</guid>
+      <description>Make the most of your business intelligence date with Smile’s Analytics. Mobilise your resources, operate more efficiently and identify threats to profitability.
+Create data cubes to aggregate your OLAP information.
+Create dashboards to drill-down, slice and dice your data however you need.
+Build detailed reports quickly.</description>
+    </item>
+    
+    <item>
+      <title>Data Collection</title>
+      <link>http://inomial.tk/solutions/data-collection/</link>
+      <pubDate>Fri, 14 Jul 2017 14:54:59 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/data-collection/</guid>
+      <description>Federadius is Inomial’s high performance, fault tolerant, distributed RADIUS Authentication, Authorisation and Accounting (AAA) and policy management server. Federadius is designed to live inside your data centre so that customers can connect quickly – even when things go wrong.
+More information on Federadius…
+Integrated NetFlow and SNMP polling collector and aggregator Working in real-time, FlowControl accepts NetFlow packets and performs SNMP interface polling, classifies the collected traffic data, and logs it against Smile billing customer records – fast.</description>
+    </item>
+    
+    <item>
+      <title>Inter Carrier Billing</title>
+      <link>http://inomial.tk/solutions/inter-carrier-billing/</link>
+      <pubDate>Fri, 14 Jul 2017 14:54:08 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/inter-carrier-billing/</guid>
+      <description>Inter-carrier reconciliation and settlement can be a complex task. Smile billing takes Call and Transaction Detail Records and accurately validates this information for pain-free inter-carrier billing. Track the volume of messages, packets, calls and transactions that are terminated and accessed within your networks and their length.</description>
+    </item>
+    
+    <item>
+      <title>Customer Self Service</title>
+      <link>http://inomial.tk/solutions/customer-self-service/</link>
+      <pubDate>Fri, 14 Jul 2017 14:51:40 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/customer-self-service/</guid>
+      <description>Smile software’s Customer Access Toolkit is a customisable user interface. It provides access for users to manage their own account, view usage, download invoices and make payments online, make plan changes and initiate service orders.
+Smile’s APIs and processes, when integrated with your existing web site, OSS and other service providers, enable full billing automation of ordering, network provisioning and fulfilment. Where technically feasible, Smile software can integrate with third party upstream providers to enable a fully automated, zero-touch, order-to-cash solution – entirely driven by your customers.</description>
+    </item>
+    
+    <item>
+      <title>Integration</title>
+      <link>http://inomial.tk/solutions/integration/</link>
+      <pubDate>Fri, 14 Jul 2017 14:50:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/integration/</guid>
+      <description>Smile software integrates with your existing OSS, NMS, SPE, LNS, base stations, head-ends, networks and upstream providers to automatically apply policies in real time.
+Smile includes hundreds of rich SOAP APIs and vendor-neutral XML based message topics to allow integration with almost any external system, including APIs for integrating with customer-facing web servers allowing for unlimited flexibility whenever setting up your brand.
+Service management includes automated ordering, provisioning and policy management tools to enable zero-touch onboarding of customers.</description>
+    </item>
+    
+    <item>
+      <title>Crm</title>
+      <link>http://inomial.tk/solutions/crm/</link>
+      <pubDate>Fri, 14 Jul 2017 14:48:57 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/crm/</guid>
+      <description>Smile software’s integrated Helpdesk and CRM workflow system captures tickets directly from customers or any number of email boxes, and assigns the tickets to staff members (or groups of staff) for action. The built-in workflow manager allows for the implementation of simple manual workflows including escalation, inventory fulfilment, truck rolls, appointment management, multi-step on-boarding, and much more.
+Notifications can be configured within your workflows to keep your customers up to date with their order or issue, as well as their spend or service usage.</description>
+    </item>
+    
+    <item>
+      <title>Subscriber Management</title>
+      <link>http://inomial.tk/solutions/subscriber-management/</link>
+      <pubDate>Fri, 14 Jul 2017 14:46:33 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/subscriber-management/</guid>
+      <description>Manage your contracts with Smile. Automatic calculation of termination fees, plan change restrictions and expiration reporting are all part of the package.
+Smile billing includes telephone number and static IP address inventory management. Workflow management allows easy interaction with dispatch centres via email or other means. Inomial can also provide and integrate with third party warehouse inventory systems if you are managing your own inventory.
+Service management includes automated ordering, provisioning and policy management tools to enable zero-touch on-boarding of customers.</description>
+    </item>
+    
+    <item>
+      <title>Accounts Receivable</title>
+      <link>http://inomial.tk/solutions/accounts-receivable/</link>
+      <pubDate>Fri, 14 Jul 2017 14:45:31 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/accounts-receivable/</guid>
+      <description>As well as managing your billing, Smile software provides your accounts receivables solution. Automated billing payments and collections with general ledger integration. Multi currency is handled with no fuss.
+Credit card surcharges can be raised automatically when a card is used to pay an account. Smile billing accepts funds from multiple clearance gateways.
+Reduce your exposure to post-paid debtors via consolidated accounts receivable including invoice presentation, late notices, automated account treatment and payment plan management for indebted customers.</description>
+    </item>
+    
+    <item>
+      <title>Subscription Billing</title>
+      <link>http://inomial.tk/solutions/subscription-billing/</link>
+      <pubDate>Fri, 14 Jul 2017 14:40:54 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/subscription-billing/</guid>
+      <description>Manage millions of pre- and postpaid users with horizontally scaleable, fault tolerant, real time, multi-service rating for mobile and fixed telephony, data, energy, gas, water, waste, and other usage based services. Consolidated, multi-service, multi-user prepaid rating or adaptive post-paid recurring billing accurately tracks the state of subscription charges at all times, providing a real time revenue outlook. Near real time reporting over billions of events – with no ETL phase.</description>
+    </item>
+    
+    <item>
+      <title>Policy Management</title>
+      <link>http://inomial.tk/solutions/policy-management/</link>
+      <pubDate>Fri, 14 Jul 2017 14:38:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/policy-management/</guid>
+      <description>You make the rules and how they are enforced.
+As Smile software collects and tracks network usage in real time via RADIUS, SNMP, Netflow or external means, it can apply policy management in real time. Your end-users can be issued alerts when they reach defined levels of usage.
+When defined levels have been reached Smile will apply your policy actions.
+Policy can be based on:
+ plan time of day, day or week, date usage, including multiple service usage aggregation, peak and off-peak  Policy can be multiple, complex rules.</description>
+    </item>
+    
+    <item>
+      <title>Flowcontrol</title>
+      <link>http://inomial.tk/solutions/flowcontrol/</link>
+      <pubDate>Fri, 14 Jul 2017 13:23:09 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/flowcontrol/</guid>
+      <description>Flow Control is data collection appliance software installed on a server in your data centre. It simultaneously accepts NetFlow packets and performs SNMP polling from network equipment such as LNSes and routers, classifies and aggregates the data against customers and tariffs, and forwards the aggregate data to Smile software over RADIUS.
+Zoned Billing Once installed, Flow Control’s configuration is managed entirely within Smile software. Assign IP address ranges, network interfaces or AS numbers to tariff types, allowing you to bill customers by the traffic source and/or destination.</description>
+    </item>
+    
+    <item>
+      <title>Federadius</title>
+      <link>http://inomial.tk/solutions/federadius/</link>
+      <pubDate>Fri, 14 Jul 2017 13:18:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/federadius/</guid>
+      <description>Federadius is Inomial’s high performance, fault tolerant RADIUS AAA server for large ISPs and carriers. Combining extremely high authentication rates with a federated, fault tolerant architecture, Federadius is designed to provide authentication and accounting services for millions of simultaneous end-users, while being resilient to major network, hardware and software faults and outages.
+Federadius is designed to integrate seamlessly into an existing OSS/BSS environment.
+User provisioning and policy management is performed via a real-time SOAP API, which enables easy integration with existing BSS and Policy Management Engines.</description>
+    </item>
+    
+    <item>
+      <title>BigRating</title>
+      <link>http://inomial.tk/solutions/bigrating/</link>
+      <pubDate>Fri, 14 Jul 2017 13:02:52 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/bigrating/</guid>
+      <description>BigRating is a high-performance, real-time rating and policy management engine. It calculates charges and costs in real time for telephone CDRs, meter readings, resource consumption, billable events and more, with a sophisticated subscription billing model and generic, rules based policy manager to enable bandwidth shaping, walled gardens, terminal message display, and other real time user management features.
+Fast and versatile Although BigRating works well with traditional RDBMS systems, a key design principal of BigRating was to ensure that it could also operate with so-called “BigData” stores such as HBase or Cassandra.</description>
+    </item>
+    
+    <item>
+      <title>Revenue Assurance</title>
+      <link>http://inomial.tk/solutions/revenue-assurance/</link>
+      <pubDate>Fri, 14 Jul 2017 12:37:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/revenue-assurance/</guid>
+      <description>The Revenue Assurance Challenge and Opportunity Telecom operators’ reality is a technologically complex, competitive and global environment. New technologies and the arrival of OTT’s have meant increased competition, even in national markets, from global players with highly disruptive business models. This increasingly competitive global market where customers have more choices than ever before have stimulated operators to invest in new sophisticated technologies and products.
+These new services together with bundled and tiered product plans and flat rates – or “all you can eat” offerings – increases the demands on billing, OSS &amp;amp; BSS systems.</description>
+    </item>
+    
+    <item>
+      <title>Smile Software</title>
+      <link>http://inomial.tk/solutions/smile/</link>
+      <pubDate>Fri, 14 Jul 2017 12:25:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/smile/</guid>
+      <description>Smile is Inomial’s real-time integrated accounting, provisioning, help desk and CRM system. Smile software helps your business by directly reducing costs, improving the effectiveness of collections, and improving cash flow control.
+Automate your cash flow, provisioning and customer management. Take your subscription automation further and give your customers control to add or change services, top up balances or purchase pre-paid and manage their own account details.
+Smile Billing Platform Smile Pro Smile Pro is our full-featured billing platform available as a cloud-based SaaS, hosted in our data centre.</description>
+    </item>
+    
+    <item>
+      <title>Solutions</title>
+      <link>http://inomial.tk/solutions/</link>
+      <pubDate>Thu, 13 Jul 2017 13:01:38 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

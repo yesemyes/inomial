@@ -1,0 +1,81 @@
+    <header role="banner" id="fh5co-header">
+        <div class="container">
+            <!-- <div class="row"> -->
+            <nav class="navbar navbar-default">
+                <div class="navbar-header">
+                    <!-- Mobile Toggle Menu Button -->
+                    <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+                    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+                        <img src="{{ .Site.BaseURL }}/{{ with .Site.Params.navigation.brand }}{{ . | markdownify }}{{ end }}">
+                    </a> 
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav navbar-right pT15">
+
+                    {{ range .Site.Menus.prepend }}
+                        <li><a href="{{ .URL }}"><span>{{ .Name | markdownify }}</span></a></li>
+                    {{ end }}
+
+                    <li class=""><a href="{{ .Site.BaseURL }}" data-nav-section="home"><span>{{ with .Site.Params.navigation.home }}{{ . | markdownify }}{{ end }}</span></a></li>
+
+                    <li class=""><a href="{{ .Site.BaseURL }}news" data-nav-section="news"><span>{{ with .Site.Params.navigation.news }}{{ . | markdownify }}{{ end }}</span></a></li>
+                    
+                    {{ if .Site.Params.work.enable }}
+                    <li class="industries"><a href="{{ .Site.BaseURL }}industries" data-nav-section="industries"><span>{{ with .Site.Params.navigation.Industries }}{{ . | markdownify }}{{ end }}</span></a>
+                        <ul class="sub-menu">
+                            <li><a href="/industries/telecommunications/"><span>Telecommunications</span></a></li>
+                            <li><a href="/industries/isp/"><span>ISP</span></a></li>
+                            <li><a href="/industries/tv/"><span>TV</span></a></li>
+                            <li><a href="/industries/media/"><span>Media</span></a></li>
+                            <!-- <li><a href="/industries/saas-iaas-paas/">SaaS, IaaS, PaaS</a></li> -->
+                            <li><a href="/industries/other-industries/"><span>Other Industries</span></a></li>
+                        </ul>
+                    </li> 
+                    {{ end }}
+
+                    {{ if .Site.Params.solutions.enable }}
+                    <li class="solutions"><a href="{{ .Site.BaseURL }}solutions" data-nav-section="solutions"><span>{{ with .Site.Params.navigation.solutions }}{{ . | markdownify }}{{ end }}</span></a>
+                        <ul class="sub-menu">
+                            <li><a href="/solutions/smile/"><span>Smile</span></a></li>
+                            <li><a href="/solutions/revenue-assurance/"><span>Revenue Assurance</span></a></li>
+                            <li><a href="/solutions/bigrating/"><span>BigRating</span></a></li>
+                            <li><a href="/solutions/flowcontrol/"><span>Flow Control</span></a></li>
+                            <li><a href="/solutions/federadius/"><span>Federadius</span></a></li>
+                        </ul>
+                    </li> 
+                    {{ end }}
+
+                    {{ if .Site.Params.services.enable }}
+                    <li><a href="{{ .Site.BaseURL }}services" data-nav-section="services"><span>{{ with .Site.Params.navigation.services }}{{ . | markdownify }}{{ end }}</span></a></li> 
+                    {{ end }}
+
+                    {{ if .Site.Params.navigation.subscribe }}
+                    <li><a href="/subscribe" data-nav-section="subscribe"><span>{{ with .Site.Params.navigation.subscribe }}{{ . | markdownify }}{{ end }}</span></a></li> 
+                    {{ end }}
+
+                    {{ if .Site.Params.navigation.resources }}
+                    <li class="resources"><a href="#" data-nav-section="resources"><span>{{ with .Site.Params.navigation.resources }}{{ . | markdownify }}{{ end }}</span></a>
+                        <ul class="sub-menu">
+                            <li><a href="/resources/release-notes"><span>Release Notes</span></a></li>
+                            <li><a href="https://docs.inomial.com" target="_blank"><span>docs.inomial.com</span></a></li>
+                        </ul>
+                    </li> 
+                    {{ end }}
+
+                    {{ if .Site.Params.about.enable }}
+                    <li><a href="/about" data-nav-section="about"><span>{{ with .Site.Params.navigation.about }}{{ . | markdownify }}{{ end }}</span></a></li> 
+                    {{ end }}
+
+                    {{ if .Site.Params.contact.enable }}
+                    <li><a href="/contact" data-nav-section="contact"><span>{{ with .Site.Params.navigation.contact }}{{ . | markdownify }}{{ end }}</span></a></li> 
+                    {{ end }}
+
+                    {{ range .Site.Menus.postpend }}
+                        <li><a href="{{ .URL }}"><span>{{ .Name | markdownify }}</span></a></li>
+                    {{ end }}
+                </ul>
+            </div>
+        </nav>
+        <!-- </div> -->
+    </div>
+</header>

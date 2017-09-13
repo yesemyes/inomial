@@ -1,0 +1,24 @@
+<section id="fh5co-smile" data-section="news" class="pT70">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 section-heading text-center">
+				<h2 class="noneBg vagr">{{ with .Site.Params.latest.title }}{{ . }}{{ end }}</h2>
+				<div class="row">
+					{{ range first 3 (where .Site.Pages "Params.section" "news") }}
+                    <div class="col-md-4 subtext ">
+                    	<div class="latest-news to-animate fadeInUp animated">
+	                        <h3 class="latest_title vagr"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	                        <p class="latest_summary prNova">{{ .Summary }}</p>
+	                    </div>
+                    </div>
+		            {{ end }}
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 text-center to-animate">
+				<p>{{ .Site.Params.work.footertext | markdownify }}</p>
+			</div>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inomial</title>
+    <link>http://inomial.tk/</link>
+    <description>Recent content on inomial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2017 13:04:42 +0400</lastBuildDate>
+    
+	<atom:link href="http://inomial.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Profit</title>
+      <link>http://inomial.tk/profit/</link>
+      <pubDate>Tue, 25 Jul 2017 13:04:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/profit/</guid>
+      <description>Network integration and subscription automation allow for the fast creation of new products, the development of new business models, and radical improvements in customer care.
+Develop New Products Once your network is integrated, it’s easy to develop and quickly deploy new pricing plans, packages, product combinations and more. Smile’s sophisticated integration API allows entirely new network elements to be integrated quickly, enabling fast integration with existing products and very fast time-to-market.</description>
+    </item>
+    
+    <item>
+      <title>Automate</title>
+      <link>http://inomial.tk/automate/</link>
+      <pubDate>Tue, 25 Jul 2017 12:47:28 +0400</pubDate>
+      
+      <guid>http://inomial.tk/automate/</guid>
+      <description>Fully automate onboarding, provisioning/setup, recurring billing, usage billing, debt collection, credit management, pro-rata changes, setup charges, pro-rata service change fees, termination, early termination fees, credit card surcharges, late fees, usage caps, overage charges, and more.
+ Services which have been fully integrated into Smile’s policy management framework benefit from policy control and enforcement which can be applied in real time based on service level (plan) changes, payment status, overdue status, service termination and more.</description>
+    </item>
+    
+    <item>
+      <title>Integrate</title>
+      <link>http://inomial.tk/integrate/</link>
+      <pubDate>Tue, 25 Jul 2017 12:20:05 +0400</pubDate>
+      
+      <guid>http://inomial.tk/integrate/</guid>
+      <description>Integrate, manage and aggregate your different platforms with Inomial’s billing systems, service management tools and workflows using our APIs, services and support. We provide everything your team needs to build an integrated, fully managed and billable product catalog.
+Our APIs support integration with hardware, software, services, vendors, agents, acquisitions and more.
+All our APIs are documented and supported by the team at Inomial HQ.
+Integration Scenarios Smile is intended to be integrated into your existing infrastructure, including your back-end services and your front-end customer portal.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://inomial.tk/privacy-policy/</link>
+      <pubDate>Wed, 19 Jul 2017 10:59:49 +0400</pubDate>
+      
+      <guid>http://inomial.tk/privacy-policy/</guid>
+      <description>Inomial may store the following information so that it can provide services to you and your End Users (hereafter jointly and severally called “You” and or “Your”).
+ Your name, address and other contact information; Your current and previous credit card details (in encrypted form); Your account history, including invoices and payments; Your internet connection history, including IP addresses; Your username and password; Other information related to the provision of individual services to You such as IP addresses and other details (“Your Data”).</description>
+    </item>
+    
+    <item>
+      <title>Release Notes</title>
+      <link>http://inomial.tk/resources/release-notes/</link>
+      <pubDate>Wed, 19 Jul 2017 10:34:20 +0400</pubDate>
+      
+      <guid>http://inomial.tk/resources/release-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://inomial.tk/contact/</link>
+      <pubDate>Tue, 18 Jul 2017 17:50:48 +0400</pubDate>
+      
+      <guid>http://inomial.tk/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subscribe</title>
+      <link>http://inomial.tk/subscribe/</link>
+      <pubDate>Tue, 18 Jul 2017 17:03:41 +0400</pubDate>
+      
+      <guid>http://inomial.tk/subscribe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://inomial.tk/solutions/analytics/</link>
+      <pubDate>Fri, 14 Jul 2017 14:57:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/analytics/</guid>
+      <description>Make the most of your business intelligence date with Smile’s Analytics. Mobilise your resources, operate more efficiently and identify threats to profitability.
+Create data cubes to aggregate your OLAP information.
+Create dashboards to drill-down, slice and dice your data however you need.
+Build detailed reports quickly.</description>
+    </item>
+    
+    <item>
+      <title>Data Collection</title>
+      <link>http://inomial.tk/solutions/data-collection/</link>
+      <pubDate>Fri, 14 Jul 2017 14:54:59 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/data-collection/</guid>
+      <description>Federadius is Inomial’s high performance, fault tolerant, distributed RADIUS Authentication, Authorisation and Accounting (AAA) and policy management server. Federadius is designed to live inside your data centre so that customers can connect quickly – even when things go wrong.
+More information on Federadius…
+Integrated NetFlow and SNMP polling collector and aggregator Working in real-time, FlowControl accepts NetFlow packets and performs SNMP interface polling, classifies the collected traffic data, and logs it against Smile billing customer records – fast.</description>
+    </item>
+    
+    <item>
+      <title>Inter Carrier Billing</title>
+      <link>http://inomial.tk/solutions/inter-carrier-billing/</link>
+      <pubDate>Fri, 14 Jul 2017 14:54:08 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/inter-carrier-billing/</guid>
+      <description>Inter-carrier reconciliation and settlement can be a complex task. Smile billing takes Call and Transaction Detail Records and accurately validates this information for pain-free inter-carrier billing. Track the volume of messages, packets, calls and transactions that are terminated and accessed within your networks and their length.</description>
+    </item>
+    
+    <item>
+      <title>Customer Self Service</title>
+      <link>http://inomial.tk/solutions/customer-self-service/</link>
+      <pubDate>Fri, 14 Jul 2017 14:51:40 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/customer-self-service/</guid>
+      <description>Smile software’s Customer Access Toolkit is a customisable user interface. It provides access for users to manage their own account, view usage, download invoices and make payments online, make plan changes and initiate service orders.
+Smile’s APIs and processes, when integrated with your existing web site, OSS and other service providers, enable full billing automation of ordering, network provisioning and fulfilment. Where technically feasible, Smile software can integrate with third party upstream providers to enable a fully automated, zero-touch, order-to-cash solution – entirely driven by your customers.</description>
+    </item>
+    
+    <item>
+      <title>Integration</title>
+      <link>http://inomial.tk/solutions/integration/</link>
+      <pubDate>Fri, 14 Jul 2017 14:50:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/integration/</guid>
+      <description>Smile software integrates with your existing OSS, NMS, SPE, LNS, base stations, head-ends, networks and upstream providers to automatically apply policies in real time.
+Smile includes hundreds of rich SOAP APIs and vendor-neutral XML based message topics to allow integration with almost any external system, including APIs for integrating with customer-facing web servers allowing for unlimited flexibility whenever setting up your brand.
+Service management includes automated ordering, provisioning and policy management tools to enable zero-touch onboarding of customers.</description>
+    </item>
+    
+    <item>
+      <title>Crm</title>
+      <link>http://inomial.tk/solutions/crm/</link>
+      <pubDate>Fri, 14 Jul 2017 14:48:57 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/crm/</guid>
+      <description>Smile software’s integrated Helpdesk and CRM workflow system captures tickets directly from customers or any number of email boxes, and assigns the tickets to staff members (or groups of staff) for action. The built-in workflow manager allows for the implementation of simple manual workflows including escalation, inventory fulfilment, truck rolls, appointment management, multi-step on-boarding, and much more.
+Notifications can be configured within your workflows to keep your customers up to date with their order or issue, as well as their spend or service usage.</description>
+    </item>
+    
+    <item>
+      <title>Subscriber Management</title>
+      <link>http://inomial.tk/solutions/subscriber-management/</link>
+      <pubDate>Fri, 14 Jul 2017 14:46:33 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/subscriber-management/</guid>
+      <description>Manage your contracts with Smile. Automatic calculation of termination fees, plan change restrictions and expiration reporting are all part of the package.
+Smile billing includes telephone number and static IP address inventory management. Workflow management allows easy interaction with dispatch centres via email or other means. Inomial can also provide and integrate with third party warehouse inventory systems if you are managing your own inventory.
+Service management includes automated ordering, provisioning and policy management tools to enable zero-touch on-boarding of customers.</description>
+    </item>
+    
+    <item>
+      <title>Accounts Receivable</title>
+      <link>http://inomial.tk/solutions/accounts-receivable/</link>
+      <pubDate>Fri, 14 Jul 2017 14:45:31 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/accounts-receivable/</guid>
+      <description>As well as managing your billing, Smile software provides your accounts receivables solution. Automated billing payments and collections with general ledger integration. Multi currency is handled with no fuss.
+Credit card surcharges can be raised automatically when a card is used to pay an account. Smile billing accepts funds from multiple clearance gateways.
+Reduce your exposure to post-paid debtors via consolidated accounts receivable including invoice presentation, late notices, automated account treatment and payment plan management for indebted customers.</description>
+    </item>
+    
+    <item>
+      <title>Subscription Billing</title>
+      <link>http://inomial.tk/solutions/subscription-billing/</link>
+      <pubDate>Fri, 14 Jul 2017 14:40:54 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/subscription-billing/</guid>
+      <description>Manage millions of pre- and postpaid users with horizontally scaleable, fault tolerant, real time, multi-service rating for mobile and fixed telephony, data, energy, gas, water, waste, and other usage based services. Consolidated, multi-service, multi-user prepaid rating or adaptive post-paid recurring billing accurately tracks the state of subscription charges at all times, providing a real time revenue outlook. Near real time reporting over billions of events – with no ETL phase.</description>
+    </item>
+    
+    <item>
+      <title>Policy Management</title>
+      <link>http://inomial.tk/solutions/policy-management/</link>
+      <pubDate>Fri, 14 Jul 2017 14:38:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/policy-management/</guid>
+      <description>You make the rules and how they are enforced.
+As Smile software collects and tracks network usage in real time via RADIUS, SNMP, Netflow or external means, it can apply policy management in real time. Your end-users can be issued alerts when they reach defined levels of usage.
+When defined levels have been reached Smile will apply your policy actions.
+Policy can be based on:
+ plan time of day, day or week, date usage, including multiple service usage aggregation, peak and off-peak  Policy can be multiple, complex rules.</description>
+    </item>
+    
+    <item>
+      <title>Flowcontrol</title>
+      <link>http://inomial.tk/solutions/flowcontrol/</link>
+      <pubDate>Fri, 14 Jul 2017 13:23:09 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/flowcontrol/</guid>
+      <description>Flow Control is data collection appliance software installed on a server in your data centre. It simultaneously accepts NetFlow packets and performs SNMP polling from network equipment such as LNSes and routers, classifies and aggregates the data against customers and tariffs, and forwards the aggregate data to Smile software over RADIUS.
+Zoned Billing Once installed, Flow Control’s configuration is managed entirely within Smile software. Assign IP address ranges, network interfaces or AS numbers to tariff types, allowing you to bill customers by the traffic source and/or destination.</description>
+    </item>
+    
+    <item>
+      <title>Federadius</title>
+      <link>http://inomial.tk/solutions/federadius/</link>
+      <pubDate>Fri, 14 Jul 2017 13:18:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/federadius/</guid>
+      <description>Federadius is Inomial’s high performance, fault tolerant RADIUS AAA server for large ISPs and carriers. Combining extremely high authentication rates with a federated, fault tolerant architecture, Federadius is designed to provide authentication and accounting services for millions of simultaneous end-users, while being resilient to major network, hardware and software faults and outages.
+Federadius is designed to integrate seamlessly into an existing OSS/BSS environment.
+User provisioning and policy management is performed via a real-time SOAP API, which enables easy integration with existing BSS and Policy Management Engines.</description>
+    </item>
+    
+    <item>
+      <title>BigRating</title>
+      <link>http://inomial.tk/solutions/bigrating/</link>
+      <pubDate>Fri, 14 Jul 2017 13:02:52 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/bigrating/</guid>
+      <description>BigRating is a high-performance, real-time rating and policy management engine. It calculates charges and costs in real time for telephone CDRs, meter readings, resource consumption, billable events and more, with a sophisticated subscription billing model and generic, rules based policy manager to enable bandwidth shaping, walled gardens, terminal message display, and other real time user management features.
+Fast and versatile Although BigRating works well with traditional RDBMS systems, a key design principal of BigRating was to ensure that it could also operate with so-called “BigData” stores such as HBase or Cassandra.</description>
+    </item>
+    
+    <item>
+      <title>Revenue Assurance</title>
+      <link>http://inomial.tk/solutions/revenue-assurance/</link>
+      <pubDate>Fri, 14 Jul 2017 12:37:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/revenue-assurance/</guid>
+      <description>The Revenue Assurance Challenge and Opportunity Telecom operators’ reality is a technologically complex, competitive and global environment. New technologies and the arrival of OTT’s have meant increased competition, even in national markets, from global players with highly disruptive business models. This increasingly competitive global market where customers have more choices than ever before have stimulated operators to invest in new sophisticated technologies and products.
+These new services together with bundled and tiered product plans and flat rates – or “all you can eat” offerings – increases the demands on billing, OSS &amp;amp; BSS systems.</description>
+    </item>
+    
+    <item>
+      <title>Smile Software</title>
+      <link>http://inomial.tk/solutions/smile/</link>
+      <pubDate>Fri, 14 Jul 2017 12:25:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/smile/</guid>
+      <description>Smile is Inomial’s real-time integrated accounting, provisioning, help desk and CRM system. Smile software helps your business by directly reducing costs, improving the effectiveness of collections, and improving cash flow control.
+Automate your cash flow, provisioning and customer management. Take your subscription automation further and give your customers control to add or change services, top up balances or purchase pre-paid and manage their own account details.
+Smile Billing Platform Smile Pro Smile Pro is our full-featured billing platform available as a cloud-based SaaS, hosted in our data centre.</description>
+    </item>
+    
+    <item>
+      <title>Solutions</title>
+      <link>http://inomial.tk/solutions/</link>
+      <pubDate>Thu, 13 Jul 2017 13:01:38 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Industries &#43; Smile Software</title>
+      <link>http://inomial.tk/industries/other-industries/</link>
+      <pubDate>Thu, 13 Jul 2017 12:48:56 +0400</pubDate>
+      
+      <guid>http://inomial.tk/industries/other-industries/</guid>
+      <description>If you have an automatic billing or service management need Inomial may be able to help. Smile’s incredibly flexible design allows it to be relevant to more than telecommunication or ISP applications. Smile software can be readily adapted to support many automated billing needs, such as content providers and serviced officers. Smile is only limited by your imagination.
+Contact Inomial to discuss your requirements.</description>
+    </item>
+    
+    <item>
+      <title>Media &#43; Smile Software</title>
+      <link>http://inomial.tk/industries/media/</link>
+      <pubDate>Thu, 13 Jul 2017 12:46:26 +0400</pubDate>
+      
+      <guid>http://inomial.tk/industries/media/</guid>
+      <description>As media delivery methods evolve, so to must your automated billing. Whether you deliver content based on a static subscription billing method or using an on-demand approach, Inomial’s flexible APIs let you determine the charging models that works best for you. Build your customer base, simplify your ordering, billing and invoicing process, and make the most of your revenue. With Smile software your automatic billing capabilities are virtually unlimited.</description>
+    </item>
+    
+    <item>
+      <title>TV &#43; Smile Software</title>
+      <link>http://inomial.tk/industries/tv/</link>
+      <pubDate>Thu, 13 Jul 2017 12:39:06 +0400</pubDate>
+      
+      <guid>http://inomial.tk/industries/tv/</guid>
+      <description>Inomial’s Smile software and extensive automatic billing and service management experience is well suited to IPTV, DOCSIS, cable and satellite TV markets, providing subscription automation and Video on Demand (VoD) services.
+Inomial’s high performance, highly available, distributed APIs can be integrated with existing TV systems and content networks to enable complete, resilient end-to-end billing functionality. Managed services include ordering, VoD, billing and invoicing.</description>
+    </item>
+    
+    <item>
+      <title>Telecommunications &#43; Smile Software</title>
+      <link>http://inomial.tk/industries/telecommunications/</link>
+      <pubDate>Thu, 13 Jul 2017 12:29:05 +0400</pubDate>
+      
+      <guid>http://inomial.tk/industries/telecommunications/</guid>
+      <description>Inomial has been partnering with the telecommunications industry for over 15 years. As telecommunication requirements have grown broader and more complex, so has Smile software grown into a full-featured, flexible automated billing and service management solution.
+The telecommunications industry is an ever-transforming environment, with the introduction of new access technologies, consumer devices, services, payment methods and content. Inomial’s automatic billing and service management system is flexible enough to handle multiple offerings and changes at an escalating rate.</description>
+    </item>
+    
+    <item>
+      <title>ISP &#43; Smile Software</title>
+      <link>http://inomial.tk/industries/isp/</link>
+      <pubDate>Thu, 13 Jul 2017 10:49:16 +0400</pubDate>
+      
+      <guid>http://inomial.tk/industries/isp/</guid>
+      <description> In a highly aggressive ISP environment, Inomial knows you have to stay competitive to survive. Inomial’s automated billing and service management solution plays a big part in saving you time and money.
+Smile’s flexibility allows you to deliver creative feature-rich packages quickly. Match or surpass your competitors offerings, with Smile software re-calculating charges automatically.
+Increase your revenue, reduce your costs and improve the customer experience.
+ISP carrier types include:  Retail Wholesale WiFi  ISP service types include:  DSL Wireless WiFI  </description>
+    </item>
+    
+    <item>
+      <title>Industries Suited For Smile Software</title>
+      <link>http://inomial.tk/industries/</link>
+      <pubDate>Thu, 13 Jul 2017 10:35:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/industries/</guid>
+      <description>When you partner with Inomial you’re joining some of Asia-Pacific’s leading independent ISPs and telcos. But Inomial’s skill
+and years of experience does not end there. Smile’s vendor neutral design, it’s ability to successfully integrate with other
+technologies and applications and an extensive feature list allows for immense flexibility. Smile software is well suited for any
+industry with a requirement for automatic billing and service management.
+Inomial firmly believes that billing as a service is not a one size fits all situation.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://inomial.tk/showcase/test/</link>
+      <pubDate>Fri, 07 Jul 2017 13:04:40 +0400</pubDate>
+      
+      <guid>http://inomial.tk/showcase/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Help Desk Tickets in Smile Software</title>
+      <link>http://inomial.tk/post/linking-help-desk-tickets-in-smile/</link>
+      <pubDate>Wed, 05 Jul 2017 11:20:32 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/linking-help-desk-tickets-in-smile/</guid>
+      <description>Linking help desk tickets lets you associate&amp;nbsp;tickets that have a similar cause or subject. For example, if a customer has a recurring ADSL problem, you can link the tickets of each instance of the problem together. Linking tickets helps you easily refer to information in other tickets so you can determine common problems or trends or see what actions have already been taken.
+Instructions for Linking Tickets in Smile Software To link tickets, click the Add a comment… button in a ticket.</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://inomial.tk/services/</link>
+      <pubDate>Tue, 04 Jul 2017 16:00:10 +0400</pubDate>
+      
+      <guid>http://inomial.tk/services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://inomial.tk/about/</link>
+      <pubDate>Tue, 04 Jul 2017 11:26:07 +0400</pubDate>
+      
+      <guid>http://inomial.tk/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://inomial.tk/news/</link>
+      <pubDate>Tue, 04 Jul 2017 11:20:08 +0400</pubDate>
+      
+      <guid>http://inomial.tk/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smile News – May 2017</title>
+      <link>http://inomial.tk/post/smile-newsmay-2017/</link>
+      <pubDate>Fri, 26 May 2017 11:39:49 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-newsmay-2017/</guid>
+      <description>Inomial and DGIT Systems win TMForum Catalyst Award for Outstanding Open Architecture and API Design
+We were excited to be a Catalyst participant at the recent TMForum Live! 2017 event in Nice, France. TMForum catalysts are rapid fire, member-driven, proof-of-concept projects which both inform and leverage TM Forum best practices and standards, connecting service providers, technology suppliers, and global enterprises to create truly thought-leading and innovative solutions to industry challenges.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.9 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6.0.9-released/</link>
+      <pubDate>Wed, 10 May 2017 10:40:05 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6.0.9-released/</guid>
+      <description>Smile software 6.0.9 has been released. This release includes 3 features and 2 enhancements.
+Features  Added support for importing customer’s payment details from CBA BPoint Added support for CBA BPoint Direct Debit payments Introduced Tax Treatments which allow different line items to be taxed at different rates  Enhancements  Optus Wholesale Gateway CDR Importer (FTP) importers now support multiple services Added a new description for InfoTranz failure code 76 for ‘Cease sale due to service in NBN area’  Minor fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.8 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-8-released/</link>
+      <pubDate>Mon, 10 Apr 2017 11:38:22 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-8-released/</guid>
+      <description>Smile 6.0.8 has been released. This release includes 1 enhancement.
+Enhancements  Added checkbox to filter closed subscriptions from Subscription table 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile News – April 2017</title>
+      <link>http://inomial.tk/post/smile-newsapril-2017/</link>
+      <pubDate>Wed, 05 Apr 2017 12:04:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-newsapril-2017/</guid>
+      <description>Farewell from Royce
+After what feels like forever Royce Ausburn is leaving Inomial. He and Louise are relocating to the USA where he will take up a new programming role. He has&amp;nbsp;worked with most, if not all, of our users over the years and has been instrumental in the development of Smile.
+Whilst we are very sad to see him go, we’re also very excited for the international adventure ahead for him.</description>
+    </item>
+    
+    <item>
+      <title>Smile News March 2017</title>
+      <link>http://inomial.tk/post/smile-news-march-2017/</link>
+      <pubDate>Mon, 20 Mar 2017 10:53:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-march-2017/</guid>
+      <description>docs.inomial.com
+Inomial is happy to announce that our documentation is now accessible in HTML. You will also no longer need to log in for access.
+Web help versions of our major guides – the User, Configuration and Developer Guides – are now available with more to follow. Each document has a powerful search function to help you find any topic.
+Go to&amp;nbsp;docs.inomial.com 
+    Inomial at Telecoms World Asia 2017</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.7 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-7-released/</link>
+      <pubDate>Mon, 27 Feb 2017 11:44:06 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-7-released/</guid>
+      <description>Smile 6.0.7 has been released. This release includes 2 enhancements.
+Enhancements  Removed a limitation on the number of CDRs that can be stored Added a table view of auto-updated active connections of a subscription 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.6 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-6-released/</link>
+      <pubDate>Fri, 10 Feb 2017 11:45:48 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-6-released/</guid>
+      <description>Smile software 6.0.6 has been released. This release includes 3 features.
+Smile Software Features  Added EziDebit real-time credit card and direct debit support for EziDebit API 3.5 Added automatic payment processing for quick batch credit card to Westpac Added automatic payment processing support for direct debit to Westpac 
+Minor fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile News February 2017</title>
+      <link>http://inomial.tk/post/smile-news-february-2017/</link>
+      <pubDate>Fri, 10 Feb 2017 10:57:10 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-february-2017/</guid>
+      <description>Inomial at NZNOG
+Inomial began 2017 as a sponsor and attendee at NZNOG in Tauranga, New Zealand. It was a well organised exhibition and conference attended by a large number of Internet Services Providers from all over New Zealand. Our Kiwi colleagues gave us a warm reception and we valued the opportunity to meet with some of their countries network operators.
+
+(Photo credit&amp;nbsp;GoWireless NZ)     NZNOG Raspberry Pi 3 winners</description>
+    </item>
+    
+    <item>
+      <title>Smile 6 Replaces Ultrafast Fibres Old Billing System 56 Days</title>
+      <link>http://inomial.tk/post/smile-6-replaces-ultrafast-fibres-old-billing-system-56-days/</link>
+      <pubDate>Thu, 22 Dec 2016 11:13:08 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-6-replaces-ultrafast-fibres-old-billing-system-56-days/</guid>
+      <description>Our biggest customer success story of the year was the deployment of our cloud product, Smile Pro, into&amp;nbsp;Ultrafast Fibre. UFF is one of New Zealand’s largest fibre broadband wholesalers.
+We’re super proud of our achievements with UFF. Following the signing of the Smile contract, the first successful billing cycle run took just&amp;nbsp;56 days – “soup to nuts”&amp;nbsp;– a huge effort for both companies. Compared to their previous billing platform, we’ve reduced the invoice processing time by&amp;nbsp;144 hours per month, allowed UFF to increase order throughput to&amp;nbsp;7,000 orders per month&amp;nbsp;(the majority of which are new services added to Smile), we’ve helped&amp;nbsp;increase staff productivity by 255%,&amp;nbsp;and UFF has been able to reduce both billing and human errors.</description>
+    </item>
+    
+    <item>
+      <title>Smile News December 2016</title>
+      <link>http://inomial.tk/post/smile-news-december-2016/</link>
+      <pubDate>Thu, 22 Dec 2016 10:59:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-december-2016/</guid>
+      <description>Reflections on 2016
+December is a great time to enjoy a look back at the year that was. For Inomial, 2016 was a year of big changes.
+For me personally, the most important event of the year was having my long time mentor, Ian Fry, join Inomial as CEO. After Ian took over day to day responsibilities for the business back in February, I’ve been able to return to what I love — being a huge geek.</description>
+    </item>
+    
+    <item>
+      <title>Inomial Dgit Systems Partnership</title>
+      <link>http://inomial.tk/post/inomial-dgit-systems-partnership/</link>
+      <pubDate>Thu, 08 Dec 2016 10:08:19 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/inomial-dgit-systems-partnership/</guid>
+      <description>&amp;nbsp;
+SINGAPORE – December 6, 2016 – TM Forum Asia – DGIT Systems and Inomial have today announced a partnership to deliver converged billing and fulfilment solutions to the global telecommunications market.
+This landmark partnership between two of Australia’s leading independent telecommunication software vendors aims to redefine the way carriers and ISPs order, fulfil and bill their customers, while extending DGIT’s renowned alignment with TM Forum principles and APIs.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.5 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-5-released/</link>
+      <pubDate>Wed, 07 Dec 2016 11:50:59 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-5-released/</guid>
+      <description>Smile 6.0.5 has been released. This release includes 2 features and 1 enhancement.
+Features  Added Smile software standard CSV invoice charge importer More fields supported in the Flexible CSV-based invoice charge importer  Enhancements  Westpac Recall BPay payment importer now supports PGP decryption 
+Minor fixes and changes to custom code in Smile software are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.37 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-37-released/</link>
+      <pubDate>Wed, 07 Dec 2016 11:48:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-37-released/</guid>
+      <description>Smile software 5.4.37 has been released. This release includes 1 feature and 2 enhancements.
+Features  New SOAP API to reserve USNs for ordering  Enhancements  Updated the SZU database Line item’s accounts added to ItemisedTransactionDetail documents in the API to support Bill-To accounts better 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.36 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-36-released/</link>
+      <pubDate>Wed, 30 Nov 2016 11:53:23 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-36-released/</guid>
+      <description>Smile 5.4.36 has been released. This release includes 2 enhancements.
+Enhancements  Added configuration to hide inactive subscriptions in CAT on a per service basis Added a new SOAP API to get account information excluding its subscriptions 
+Minor fixes and changes to custom code are not included in this summary
+Note: The Smile software 5.4.35 release only contained minor fixes and custom code.</description>
+    </item>
+    
+    <item>
+      <title>Smile News November 2016</title>
+      <link>http://inomial.tk/post/smile-news-november-2016/</link>
+      <pubDate>Mon, 28 Nov 2016 11:28:57 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-november-2016/</guid>
+      <description>Inomial at NZNOG 2017
+Inomial are an event sponsor of the 2017 New Zealand Network Operators Group (NZNOG) conference in Tauranga. Come and visit our stand if you’re attending in January, and check out the Raspberry Pi’s that we’ll be giving away to some lucky visitors.
+
+Exciting things are happening with Inomial in New Zealand. We’ll be announcing our two most recent NZ customers shortly!    Configuring usage alerts for data services in Smile</description>
+    </item>
+    
+    <item>
+      <title>Christmas 2017 New Year Office Arrangements</title>
+      <link>http://inomial.tk/post/christmas-2017-new-year-office-arrangements/</link>
+      <pubDate>Tue, 22 Nov 2016 11:31:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/christmas-2017-new-year-office-arrangements/</guid>
+      <description>In preparation for the Christmas and New Year break please note the following:
+   Office closure
+Our offices will be closed over the Christmas – New Year period from&amp;nbsp;Monday&amp;nbsp;26th December through to Monday 2nd January 2017.
+We will be open again on&amp;nbsp;Tuesday 3rd January 2017.
+    Support
+Emergency support will remain available for any business critical issues during this period. In the event this is required please call +61 3 9663 3554 and listen to the recorded message.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.4 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-4-released/</link>
+      <pubDate>Thu, 03 Nov 2016 11:55:01 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-4-released/</guid>
+      <description>Smile software 6.0.4 has been released.</description>
+    </item>
+    
+    <item>
+      <title>Smile News October</title>
+      <link>http://inomial.tk/post/smile-news-october/</link>
+      <pubDate>Thu, 27 Oct 2016 11:33:03 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-october/</guid>
+      <description>Configuring payment declined&amp;nbsp;alerts in Smile
+Smile software can be configured to send an alert to an account holder when a payment has been declined. To create a payment declined alert in Smile multiple components need to be defined and then brought together or linked. The&amp;nbsp;Payment Declined Alert – Quick Reference Guide&amp;nbsp;steps you through an example sequence to create an emailed alert.Contact Inomial support if you require a&amp;nbsp;Document Library&amp;nbsp;logon.</description>
+    </item>
+    
+    <item>
+      <title>Smile News September</title>
+      <link>http://inomial.tk/post/smile-news-september/</link>
+      <pubDate>Mon, 26 Sep 2016 11:35:45 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-september/</guid>
+      <description>Inomial Document Library
+Smile billing&amp;nbsp;provides access to a library of almost 40 documents including:
+ quick reference and format guides user guides and manuals administrator documentation detailed API documentation and much more  Keep an eye out for Smile 6 documents that will be added in the coming months.
+Contact Inomial&amp;nbsp;support&amp;nbsp;if you require a&amp;nbsp;Document Library&amp;nbsp;username and password. One often overlooked, yet greatly appreciated, aspect of our service is the level of systems monitoring we do on your behalf.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.3 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-3-released/</link>
+      <pubDate>Thu, 22 Sep 2016 11:56:00 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-3-released/</guid>
+      <description>Smile software 6.0.3 has been released.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.2 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-2-released/</link>
+      <pubDate>Wed, 07 Sep 2016 12:22:55 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-2-released/</guid>
+      <description>Smile software 6.0.2 has been released. This release includes 4 enhancements.
+Enhancements  Deferred charges table converted to a Vaadin table The number of active subscriptions will be displayed in Operator and returned via SOAP using getAccountSummary() Moved the Settlement Reconciliation report into Operator Reference-type custom fields can now also refer to office locations 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.34 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-34-released/</link>
+      <pubDate>Wed, 07 Sep 2016 11:56:46 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-34-released/</guid>
+      <description>Smile software 5.4.34 has been released. This release includes 3 enhancements.
+Enhancements  Allow users to view the details of ordered subscriptions and accounts from an ordering ticket Improved performance of several of the reporting schema functions New RTR subscriptions will be prioritised so they are completed more quickly when rerates are in progress 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile News August</title>
+      <link>http://inomial.tk/post/smile-news-august/</link>
+      <pubDate>Wed, 31 Aug 2016 11:37:27 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-august/</guid>
+      <description>&amp;nbsp;
+   Smile billing system monitoring and support
+One often overlooked, yet greatly appreciated, aspect of our service is the level of systems monitoring we do on your behalf. In particular, monitoring of service usage&amp;nbsp;like CDRs or similar.
+When you create a service in Smile&amp;nbsp;software and begin receiving a data feed from your supplier, even if you are only testing, our monitoring tools recognise both the new service and recent activity.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.1 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-1-released/</link>
+      <pubDate>Fri, 12 Aug 2016 12:24:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-1-released/</guid>
+      <description>Smile software 6.0.1 has been released. This release includes 1 feature and 1 enhancement.
+Features  Operator has the ability to manage Bill To accounts  Enhancements  Future billing now displays a rerating message if a subscription is rerating 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.33 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-33-released/</link>
+      <pubDate>Wed, 10 Aug 2016 12:26:33 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-33-released/</guid>
+      <description>Smile software 5.4.33 has been released. This release includes 1 feature and 3 enhancements.
+Features  SOAP API for managing scheduled payments  Enhancements  Optus SP/EEDI CDR importers are now multi-service capable Added JMX monitoring support to CDR aggregator Advanced search now allows substitution codes and email templates to be used in emails sent when result type is subscriptions 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile System Monitoring And Support</title>
+      <link>http://inomial.tk/post/smile-system-monitoring-and-support/</link>
+      <pubDate>Wed, 03 Aug 2016 11:40:33 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-system-monitoring-and-support/</guid>
+      <description>As a company we take great pride in the quality of service we provide our customers. The Inomial team genuinely cares about the quality of the experience you have with us. We are particularly proud of the attention to detail which extends through all of our interactions with you – from under-the-hood architecture and implementation of technical solutions through to our exchanges&amp;nbsp;with you from our sales, deployment and support departments.</description>
+    </item>
+    
+    <item>
+      <title>Smile News – July 2016</title>
+      <link>http://inomial.tk/post/smile-news-8/</link>
+      <pubDate>Fri, 29 Jul 2016 11:41:51 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-8/</guid>
+      <description>Smile and LTE EPC launch at Telecom Fiji
+Inomial recently teamed up with&amp;nbsp;OASIS Systems, a leading Australian telecommunication solutions provider, to deliver a carrier-grade diameter gateway between&amp;nbsp;Telecom Fiji‘s new LTE EPC and Smile.
+Smile software&amp;nbsp;already provides the subscriber and policy management engine for TFL’s ADSL, CDMA and WiFi service offerings. This project was delivered within record time, allowing TFL to offer LTE data services to their customers and remain competitive following infrastructure damage caused by cyclone earlier this year.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.0 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-0-released/</link>
+      <pubDate>Wed, 13 Jul 2016 12:29:53 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-0-released/</guid>
+      <description>Smile software 6.0.0 has been released. This release includes 16 features and 20 enhancements.
+Features  Manual management for Westpac credit card gateway Flexible CSV-based invoice charge importer SOAP API for migrating an invoice from one account to another Invoices detail columns added to stationery types Users can be redirected to external application for ordering subscriptions Manual management for Westpac direct debit gateway Westpac RECall BPay payment importer Analytics reports have individual access control lists for managing permissions Subscription Migrator to import subscriptions from a CSV Notification scheduling to control when notifications are sent Flexible CSV importer Expiring purchase orders report Responsive credit control View future invoices for entire accounts through user interface or SOAP API Purchase order support View future billing on an entire account  Enhancements  Alert level information in Account Summary and Transaction List New message bus topic SmileChargeTopic; sends DeferredChargeMsg when deferred charges are created Search for custom field on accounts, subscriptions and invoice line items Custom fields on invoice line items AAPT CTOP importer now uses ‘special field 1’ as username for ‘Softswitch as a Service’ records by default Custom field codes are auto-generated if not provided and they will be unique and contain valid characters Support for a street type suffix Billing address Street address Support for SFTP when using Westpac direct debit payment gateway Credit control account treatment levels will only be escalated whenever new recurring task updateDispositionsTask runs Ability to raise a surcharge via document action Add start date to purchase order configuration New notifications in Credit Control for when an invoice, receipt or RCTI is raised Notifications support for printing New SOAP API for plan configuration and charging rule overrides are now returned/requested in PlanScheduleItem elements in SOAP API response/request Payment declined message body on SmileTransactionTopic contains more detailed information about payment failure Ability to define declined payment emails and SMSs in credit control configuration New SOAP API method WSSubscription.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.32 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-32-released/</link>
+      <pubDate>Fri, 08 Jul 2016 12:36:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-32-released/</guid>
+      <description>Smile software 5.4.32 has been released. This release includes 2 features and 2 enhancements.
+Smile Billing Features  Added support in Federadius for sending a copy of all RADIUS accounting to secondary accounting servers Added ability to upload and download CSV of closed user group members  Enhancements  Improved RTR performance for releasing billing Added the Tariff type name column to itemised CDR tables in stationery 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile News – June 2016</title>
+      <link>http://inomial.tk/post/smile-news-7/</link>
+      <pubDate>Fri, 24 Jun 2016 11:43:57 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-7/</guid>
+      <description>Smile 6 in production
+We’re excited to announce that Inomial customer&amp;nbsp;MeshTelco&amp;nbsp;has become our first customer to enter production with Smile 6. Smile 6 includes a brand new user interface, a new analytics application, single sign-on, and a host of under-the-hood features.
+   “At Mesh, we believe in a simplistic approach to communication and technology. We are a team of passionate and dedicated people, delivering software and hardware solutions to our customers,” says Adam Delon, MeshTelco CEO.</description>
+    </item>
+    
+    <item>
+      <title>Office Locations In Smile</title>
+      <link>http://inomial.tk/post/office-locations-in-smile/</link>
+      <pubDate>Tue, 07 Jun 2016 11:47:18 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/office-locations-in-smile/</guid>
+      <description>New in Smile 6 are office locations. Office locations are a list of physical locations. These locations identify the location of a Smile software operator or a sale location of an invoice line item.
+Smile operator location A Smile operator’s location is set in their operator account profile. The selected location will be used as the default when the operator creates invoice line items.
+Capabilities determine if an operator can change their default location or the location of other operators.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.31 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-31-released/</link>
+      <pubDate>Tue, 31 May 2016 12:38:36 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-31-released/</guid>
+      <description>Smile software 5.4.31 has been released. This release includes 1 feature.
+ Added the ability to display a custom field in Account and Subscription search results  Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile News – May 2016</title>
+      <link>http://inomial.tk/post/smile-news-6/</link>
+      <pubDate>Fri, 13 May 2016 11:50:32 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-6/</guid>
+      <description>Invoice grouping in Smile
+In Smile software, invoice grouping is a way of specifying how charge items are displayed on an invoice. Invoice grouping can be used to display bundle charges on an invoice without itemising the individual charges that apply to the bundle.&amp;nbsp;Charge items can be displayed grouped together or rolled up into one line entry.
+More information      CommunicAsia2016
+Inomial is again exhibiting at&amp;nbsp;CommunicAsia, which will be held in Singapore, May 31 – June 3.</description>
+    </item>
+    
+    <item>
+      <title>Invoice Grouping In Smile</title>
+      <link>http://inomial.tk/post/invoice-grouping-in-smile/</link>
+      <pubDate>Tue, 10 May 2016 11:52:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/invoice-grouping-in-smile/</guid>
+      <description>In Smile billing, invoice grouping is a way of specifying how charge items are displayed on an invoice. Invoice grouping can be used to display bundle charges on an invoice without itemising the individual charges that apply to the bundle.
+Charge type behaviours Charge items can be displayed grouped together or rolled up into one line item.
+ Group –&amp;nbsp;Charges are still displayed individually on an invoice, but charges of the same charge type are displayed grouped together on the page.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.30 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-30-released/</link>
+      <pubDate>Thu, 05 May 2016 12:39:52 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-30-released/</guid>
+      <description>Smile software 5.4.30 has been released. This release includes 4 features and 1 enhancement.
+Features  New SOAP API for assigning a subscription to a cost centre New SOAP API to&amp;nbsp;create, update, search and delete a cost centre Added support for partitioned database tables in RTR  Enhancements  Additional invoice grouping behaviours to group subscription line items 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.29 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-29-released/</link>
+      <pubDate>Wed, 13 Apr 2016 12:41:47 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-29-released/</guid>
+      <description>Smile software 5.4.29 has been released. This release includes 2 features and 2 enhancements.
+Smile Software Features  New SOAP API for custom database entry management New SOAP API for listing pending payments on an account  Enhancements  Allow CDRs of 0 seconds duration to be chargeable via new setting on Tariff Type Added CSV download button for RADIUS session list
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile News – April 2016</title>
+      <link>http://inomial.tk/post/smile-news-5/</link>
+      <pubDate>Wed, 13 Apr 2016 11:55:21 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-5/</guid>
+      <description>Inomial on tour
+Currently Inomial is exhibiting at the&amp;nbsp;PCTA Convention 2016&amp;nbsp;in Manila. We’ll be at booth 79 until April 15.&amp;nbsp;Then from April 25-29&amp;nbsp;we will be exhibiting at the&amp;nbsp;PITA 20th AGM &amp;amp; Annual Telecommunications Conference&amp;nbsp;in&amp;nbsp;Tahiti.
+If you’re attending either of these conferences come and say hello!
+             Smile 6
+The release of Smile 6 is nearing. We’ve put a lot of effort into Analytics – our new reporting interface, so you can produce fast and flexible reports.</description>
+    </item>
+    
+    <item>
+      <title>Smile News – February 2016</title>
+      <link>http://inomial.tk/post/smile-news-4/</link>
+      <pubDate>Wed, 03 Feb 2016 11:56:46 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-4/</guid>
+      <description>Ian Fry starts as Inomial’s CEO
+Ian Fry has taken on the role of Chief Executive Officer of Inomial. Ian has been involved with Inomial for a number of years providing expert guidance. He will now provide strategic management and direction in a full-time role. His focus is on the profitability and growth of Inomial.
+Ian has considerable experience and knowledge of the ICT industry, with a particular focus on telecommunications and internet delivery.</description>
+    </item>
+    
+    <item>
+      <title>Ian Fry Inomials New Ceo</title>
+      <link>http://inomial.tk/post/ian-fry-inomials-new-ceo/</link>
+      <pubDate>Mon, 01 Feb 2016 11:58:29 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/ian-fry-inomials-new-ceo/</guid>
+      <description>Ian Fry today took up the role of Chief Executive Officer of Inomial.
+Ian has been involved with Inomial for a number of years providing expert guidance. He will now provide strategic management and direction in a full-time role. His focus is on the profitability and growth of Inomial.
+Ian has considerable experience and knowledge of the ICT industry, with a particular focus on telecommunications and internet delivery. Most recently he was the executive officer of Ballarat ICT where he lead innovation, advocacy and education of digital enterprise and broadband technologies across the Ballarat region.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.28 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-28-released/</link>
+      <pubDate>Fri, 29 Jan 2016 12:43:45 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-28-released/</guid>
+      <description>Smile software 5.4.28 has been released. This release includes 4 enhancements.
+Smile Software Enhancements  Added Features tab to for all services, not just data services Ciscoworks Importer can now import SIP CDRs Significant performance improvements to large invoice production Added Save for Later button to subscription order editing screen, initial plans of yet-to-be-activated subscriptions can now be edited 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Inomial at PTC ’16</title>
+      <link>http://inomial.tk/post/inomial-at-ptc16/</link>
+      <pubDate>Mon, 18 Jan 2016 11:59:36 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/inomial-at-ptc16/</guid>
+      <description>Inomial is exhibiting at PTC ’16 this week. If you’re also in Hawaii drop by our booth and talk to Richard Giuliano and Royce Ausburn about Subscription Automation and Revenue Assurance.
+
+
+&amp;nbsp;
+
+17–20 January 2016 | Honolulu, Hawaii
+Hilton Hawaiian Village® Waikiki Beach ResortThe Pacific Telecommunications Council‘s annual conference is the Asia-Pacific’s premier telecommunications event. Now in its 38th year, the annual conference is a strategic springboard for the global telecommunications industry.</description>
+    </item>
+    
+    <item>
+      <title>Smile News – December 2015</title>
+      <link>http://inomial.tk/post/smile-news-3/</link>
+      <pubDate>Thu, 17 Dec 2015 12:02:00 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-3/</guid>
+      <description>Additional invoice document fields
+Additional invoice document fields have been added to Smile software stationery for more flexible and informative documents. The previously inconsistent field ‘payment since last invoice date’ also now works correctly.&amp;nbsp;Available from Smile 5.4.25 new fields include:
+ adjustments/surcharges with/without GST charges and GST since last invoice ‘account trading name’ (added to multiple document types)      Notification support in credit control</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.27 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-27-released/</link>
+      <pubDate>Tue, 15 Dec 2015 12:44:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-27-released/</guid>
+      <description>Smile software 5.4.27 has been released. This release includes 6 enhancements.
+Smile Software Enhancements  Added new invoice substitution code {closeDate} that displays when an invoice was closed Reduced the performance impact of RTR when idle Added the ability to update compound custom fields and gender in account or subscription via SOAP Added options on Tariff Type form to hide zero dollar line items from invoices and stop them from being printed Added availability dates to public schema plan view Added support for forwarded calls through the Huawei NGN importer</description>
+    </item>
+    
+    <item>
+      <title>Christmas And New Year Office Arrangements</title>
+      <link>http://inomial.tk/post/christmas-and-new-year-office-arrangements/</link>
+      <pubDate>Mon, 07 Dec 2015 12:03:19 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/christmas-and-new-year-office-arrangements/</guid>
+      <description>In preparation for the Christmas and New Year break please note the following:
+   Office closure
+Our offices will be closed over the Christmas – New Year period from&amp;nbsp;Thursday 24th December (Christmas&amp;nbsp;Eve) through to Sunday 3rd January 2016.
+We will be open again on&amp;nbsp;Monday 4th January 2016.
+    Support
+Emergency support will remain available for any business critical issues during this period. In the event this is required please call +61 3 9663 3554 and listen to the recorded message.</description>
+    </item>
+    
+    <item>
+      <title>Solomon Telekom Complete First Bill Run With Smile</title>
+      <link>http://inomial.tk/post/solomon-telekom-complete-first-bill-run-with-smile/</link>
+      <pubDate>Mon, 30 Nov 2015 12:04:14 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/solomon-telekom-complete-first-bill-run-with-smile/</guid>
+      <description>A good reason to Smile with recurring billing solution from Inomial.
+Today Solomon Telekom completed their first bill run for mobile, fixed and internet services using Smile software, Inomial’s real-time integrated accounting, provisioning, help desk and customer relationship management CRM system.
+“We are very excited to help Solomon Telekom achieve this milestone. Not only has our partnership with Solomon Telekom provided a solution to meet their expanding needs, but Smile billing is also adding value for their customers,” said Mark Lillywhite, Inomial’s Managing Director.</description>
+    </item>
+    
+    <item>
+      <title>Smile News – November 2015</title>
+      <link>http://inomial.tk/post/smile-news-2/</link>
+      <pubDate>Mon, 16 Nov 2015 12:05:52 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news-2/</guid>
+      <description>Charge from/to columns in invoice user interface
+Transaction item charge from and to dates are now visible in the Smile software UI when viewing an invoice or any other itemised transaction. Charge dates are also visible on deferred items on accounts. Smile software admins no longer have to rely on charge dates being included on transaction item descriptions that may not be visible in the UI. Available from Smile 5.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.26 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-26-released/</link>
+      <pubDate>Tue, 29 Sep 2015 12:47:12 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-26-released/</guid>
+      <description>Smile software 5.4.26 has been released. This release includes 9 enhancements to Smile billing.
+Enhancements  New SOAP APIs for listing available plans Added real time rating support to CDR Importers (does not include support for reversal or cancellation CDRs) New SOAP APIs for service destinations and tariff types. Tariff overrides are now returned/requested in PlanScheduleItem elements in SOAP API response/request SOAP API support for listing incomplete provision requests on a subscription Added notifications support in credit control treatment level actions Credit control treatment action Raise Fee (formerly known as Raise Percentage Fee) can now also raise fixed-amount late fees.</description>
+    </item>
+    
+    <item>
+      <title>Smile News</title>
+      <link>http://inomial.tk/post/smile-news/</link>
+      <pubDate>Wed, 23 Sep 2015 12:09:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-news/</guid>
+      <description>Responsive credit control
+If a customer consistently pays late, Smile software can automatically change the account terms to stricter terms. You can set rules based on how long and how many invoices are overdue, the amount overdue and the action to take. When they become a better paying customer their terms will automatically improve. Coming in Smile software 6.0.
+More information     Future billing</description>
+    </item>
+    
+    <item>
+      <title>Future Billing</title>
+      <link>http://inomial.tk/post/future-billing/</link>
+      <pubDate>Thu, 10 Sep 2015 12:12:26 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/future-billing/</guid>
+      <description>Many customers will be familiar with the future billing button available at the bottom of a Subscription’s service tab. From Smile 6.0 this can be used to show what charges will be raised on future invoices, but for that subscription only and for non-usage charges only. This is handy for showing the effect of scheduled plan changes, for example, upgrades and downgrades.
+
+When using this function, Smile software used to show the cumulative position for future invoices.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.25 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-25-released/</link>
+      <pubDate>Tue, 04 Aug 2015 12:48:31 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-25-released/</guid>
+      <description>Smile software 5.4.25 has been released. This release includes the ability to configure custom fields on manual invoice line items, a Point payment reconciler and 6 enhancements.
+Features  Added support for configuring custom fields on manual invoice line items Added BPoint payment reconciliation  Enhancements  Updated the SOAP API method Account.getTransactionList() to filter transactions by date Added new invoice document fields for adjustments/surcharges with/without GST, charges and GST since last invoice.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.24 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-24-released/</link>
+      <pubDate>Thu, 16 Jul 2015 12:49:43 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-24-released/</guid>
+      <description>Smile software 5.4.24 has been released. This release includes the ability to list cost centres in the SOAP API, send prepaid expiry warnings, view future billing on an entire account, a new importer and 8 enhancements.
+Features  Added ability to list cost centres through the SOAP API Added ability to send prepaid expiry warning alerts when usage blocks are about to expire Added Syniverse THS importer Added ability to view future billing on an entire account  Enhancements  Improved loading performance of the Generate Invoices page when there are many importer item failures Added ability to override cost centres on invoice line items in the SOAP API Added ability to edit child items of a roll up item Increased the maximum number in the public numbers system from 10 digits to 19 digits (excluding prefix, suffix and check digit) Added ‘Item count’ and other document columns missing from ‘Non GST items’ table Added “Account trading name’ document field to many stationery document types Added capability to control whether operators can update account contact details Subscription billing invoicing/rating periods of children may now be aligned to the master</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.23 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-23-released/</link>
+      <pubDate>Fri, 03 Jul 2015 12:51:01 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-23-released/</guid>
+      <description>Smile software 5.4.23 has been released. This release includes&amp;nbsp;2&amp;nbsp;enhancements.
+Smile Billing Enhancements  Added Service name into the Sales Report itemised CSV version Plan names are now returned in PlanScheduleItem elements in SOAP API responses 
+Minor fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.22 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-22-released/</link>
+      <pubDate>Fri, 15 May 2015 12:52:12 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-22-released/</guid>
+      <description>Smile software 5.4.22 has been released. This release includes a new ability to roll up subscription automation charges, support for BPoint payments, a Telcoinabox importer and 6 enhancements.
+Features  Added the ability to configure Smile billing to roll up subscription automation charges Added support for BPoint (CBA) credit card and token payments Added Telcoinabox CDR Importer  Enhancements  Added the ability to run scripts that enact RADIUS features as the current user Call ratings report now allows downloading of a CSV file containing the report CDRs Performance improvements to real time rating Improved performance of CDRME CDRME guidance rules now have ability to convert usernames to either e.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.21 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-21-released/</link>
+      <pubDate>Tue, 07 Apr 2015 12:54:07 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-21-released/</guid>
+      <description>Smile software 5.4.21 has been released. This release includes a new SOAP API for allocating transactions, an Ezidebit BPay importer, the ability to automatically add included usage blocks, 4 enhancements and 8 bug fixes.
+Features  Added ability to automatically add included usage blocks to subscriptions each billing period Added ability to import Ezidebit BPay payments into Smile Added a new SOAP API for allocating transactions  Enhancements  Added ability to override the cost centre on Invoice line items Added ability to perform auto allocation of transactions via the API Added new document fields: total of bonds, paid bonds and unpaid bonds at time of printing and invoicing Added ability to configure FTP port and passive mode for CDR importers  Noteworthy bug fixes  Fixed a problem where commission reversals might cause printing of RCTI to fail Fixed Sales Per Account Report to display given and family name if company name is not set Fixed an issue where searching for a users by IP address was not working in some circumstances Fixed an RTR bug where invoicing periods could be prematurely released if subscriptions do not share invoicing period with account Resolved an issue where the AAPT CTOP importer would erroneously record calls between 12:00 and 13:00 as between 00:00 and 01:00 Fixed an issue where Smile is unable to create invoice for an RTR subscription that is GST exempt ISBillCdrUsage importer now imports wholesale charges Resolved an issue that closed a period, when rerating a period that was previously published</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.20 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-20-released/</link>
+      <pubDate>Fri, 06 Feb 2015 12:56:25 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-20-released/</guid>
+      <description>Smile software 5.4.20 has been released. This release includes a new SOAP API for accounts receivable configuration and 6 bug fixes.
+Features  Added a new SOAP API for accounts receivable configuration  Noteworthy bug fixes  Resolved an issue that prevented the provisioning of 1300 numbers through Telstra InfoTranz Fixed an issue where a spurious invoice with a termination charge was raised upon closing a subscription with an active contract Fixed an issue that could cause an error when attempting to display certain emails Altered the display of some time fields to 24h time to remove am/pm ambiguity Fixed a problem that would prevent ticket actions from being configured to send emails on multi-company databases Fixed a problem raising feature recurring charges for features subscribed to multiple times by the same subscriber at the same time  Minor bug fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6 Release Updates</title>
+      <link>http://inomial.tk/release-notes/smile-6-release-updates/</link>
+      <pubDate>Fri, 21 Nov 2014 12:58:15 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-release-updates/</guid>
+      <description>Smile 6 is the most significant update of Smile billing ever. Over the coming months&amp;nbsp;we’re going to introduce you to some of the awesome new features that we will be delivering to you early next year.
+As we publish new updates we will add them here. If you would like to be added to our mailing list to get updates as soon as they are available, sign up at the Subscribe page.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.19 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-19-released/</link>
+      <pubDate>Mon, 10 Nov 2014 13:01:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-19-released/</guid>
+      <description>Smile software 5.4.19 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features  Added InfoX MMS importer Added InfoX SMS importer Updated the existing Singtel Importer for a new service, Singtel Fleet Broadband (FBB) Added ability to automatically run document actions when features are added or removed from subscriptions Added ability to drop radius interim update packets that have not be processed within a certain time since receipt Added ISPhone Charge importer Added SOAP API for subservices  Enhancement  Helpdesk email poller now accepts a configurable maximum email size above which emails will not be downloaded (by default all emails are downloaded) Added a new call type for ISDN Minor improvements to the Top Customers report Added ability to download the Commission Earner history table to CSV Improved load performance of the usage graph for RADIUS subscriptions Added ability to display cat username and password on account documents  Noteworthy bug fixes  Fixed an issue that occurred when Big Rating subscriptions were configured with feature recurring billing charges Fixed an issue that could prevent the summarisation of like invoice items Fixed an issue that could cause a connection leak in rare circumstances Corrected an issue where RTR would sometimes attempt to rerate the same subscription twice at the same time Improvements to Telstra Infotranz integration Rounded values from EziDebit to the nearest cent to prevent floating-point problems Improved helpdesk email poller integration with gmail UI validates the static IPv4 Address and IPv4 Netmask field on the RADIUS configuration page Improved performance of plan change poller for large numbers of subscriptions Fixed an issue where Smile failed to store a payment token against an account via SOAP Stopped the sending of declined emails for manual payments  Minor bug fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.18 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-18-released/</link>
+      <pubDate>Mon, 22 Sep 2014 13:03:28 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-18-released/</guid>
+      <description>Smile software 5.4.18 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features  Added SOAP API for managing simple recurring charges (user auto-charges) Added SOAP API for managing automated subscription contracts Added ability to update the expiry field for token based NAB Transact payment methods without requiring the credit card number Added a new Inomial RADIUS attribute for marking accounting packets as ignorable Added SOAP API CRM.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.17 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-17-released/</link>
+      <pubDate>Mon, 04 Aug 2014 13:05:48 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-17-released/</guid>
+      <description>Smile software 5.4.17 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software&amp;nbsp;Features  New message bus Topic and messages for Connection start, stop, reopen and features updated Ability to update prepaid blocks via API Add ability to manage IP allocations assigned to a Flow Control subscription via SOAP New Flow Control listener for Smile billing IP allocation events  Enhancements  Add support for Cisco specific identifier in RADIUS packets Add better start date for statement sent via Credit Control Improve performance of PDF generation with large tables NAS Script changes are now logged Add index to improve importer error retries Add index to improve Account loading Improve speed of the pending approvals page Improve speed of RTR Add subscription email address to order form  Noteworthy bug fixes  Fixed a bug relating to deleted spend limits when rating a customer Fixed a bug where tokens were not removed when updating a customers payment type to a non token type Fixed a bug where Big Rating recurring charge retractions were not honoured Fixed an issue where emails come into tickets as attachments instead of text  Minor Smile billing bug fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.16 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-16-released/</link>
+      <pubDate>Tue, 01 Jul 2014 13:09:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-16-released/</guid>
+      <description>Smile software 5.4.16 has been released. This is a maintenance release that includes a number of bug fixes.
+Noteworthy bug fixes  Resolved an issue where feature updated message were only sent if Radius server is running. Also resolved a class of deadlocks. Fixed a problem with&amp;nbsp;SOAP view password permission breaking other permissions. Resolved an issue caused an error when buying prepaid top up, which had prepaid type set up. Fixed an issue with rounding of GST calculations which would result in GST amounts being 1c off.</description>
+    </item>
+    
+    <item>
+      <title>Automate 2014 Inomial User Conference Wrap Up</title>
+      <link>http://inomial.tk/post/automate-2014-inomial-user-conference-wrap-up/</link>
+      <pubDate>Mon, 30 Jun 2014 12:15:04 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/automate-2014-inomial-user-conference-wrap-up/</guid>
+      <description>We held our inaugural User Conference in Melbourne on June 10 and 11. We think it went well, with attendance of partners from across Australia and the Pacific Islands, so we are keen to share with you what we covered, particularly our plans for the future.
+We’d also like to hear more from you and what you need. We took note of your comments during the conference, but you can keep the conversation going with us or each other in our User Forum.</description>
+    </item>
+    
+    <item>
+      <title>Smile You Are On Fetch Tv</title>
+      <link>http://inomial.tk/post/smile-you-are-on-fetch-tv/</link>
+      <pubDate>Fri, 23 May 2014 12:23:24 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/smile-you-are-on-fetch-tv/</guid>
+      <description>Inomial today announced an agreement to provide telco billing software to Fetch TV for its’ subscription IPTV service.
+Inomial was selected to provide robust and flexible end user billing automation for Fetch TV as it grows its direct subscription customer base.
+Inomial’s extensive automated billing and revenue&amp;nbsp;management experience is well suited to IPTV markets. For this project, Inomial has developed a high performance, highly available, distributed API which integrates with the Fetch TV systems and content network to enable a complete, resilient end-to-end billing functionality.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.15 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-15-released/</link>
+      <pubDate>Mon, 19 May 2014 13:11:07 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-15-released/</guid>
+      <description>Smile software&amp;nbsp;5.4.15 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software Enhancements  Support added for multiple policies (features) on plan rules.  Noteworthy bug fixes  Corrected an issue that could prevent new RADIUS sessions from having the correct policies applied if the policy was not in the access accept packet. Added SOAP changePlan methods (Smile and Big Rating) accept and honour recurring charge overrides in plan change requests.</description>
+    </item>
+    
+    <item>
+      <title>Vaadin early-bird discount registration closing soon!</title>
+      <link>http://inomial.tk/post/vaadin-early-bird-discount-registration-closing-soon/</link>
+      <pubDate>Tue, 29 Apr 2014 14:49:55 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/vaadin-early-bird-discount-registration-closing-soon/</guid>
+      <description>Vaadin Fundamentals (2 days) June 3&amp;nbsp;–&amp;nbsp;4, Melbourne CBD
+Advanced Vaadin (2 days) June 5&amp;nbsp;–&amp;nbsp;6, Melbourne CBD
+ Sign up 4 weeks before the event and receive a 10% early-bird discount. Sign up for both courses and get the Vaadin Certification Exam for free. Places are limited so register now.  Inomial is excited to announce that Vaadin are bringing their Vaadin Fundamentals and Advanced Vaadin training courses to Melbourne. Vaadin will power the user interface of the next generation of Inomial Smile software.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.14 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-14-released/</link>
+      <pubDate>Wed, 16 Apr 2014 13:12:32 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-14-released/</guid>
+      <description>Smile software&amp;nbsp;5.4.14 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software&amp;nbsp;Enhancements  Support added for Bendigo Bank Direct Debit. UI performance improvements for accounts that have large numbers of subscriptions. Support added for Bendigo Bank BPay payment files. RADIUS performance for subscriptions that do not have any valid prepaid improved. Australia Post BillPay payment importer will now skip payments that have already been imported.</description>
+    </item>
+    
+    <item>
+      <title>Vaadin Training Coming To Melbourne</title>
+      <link>http://inomial.tk/post/vaadin-training-coming-to-melbourne/</link>
+      <pubDate>Fri, 11 Apr 2014 14:51:25 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/vaadin-training-coming-to-melbourne/</guid>
+      <description>Inomial is super excited to announce that Vaadin Fundamentals and Advanced Vaadin training is coming to Melbourne this June.
+Vaadin Fundamentals June 3 –&amp;nbsp;4, 2014
+Advanced Vaadin June 5 –&amp;nbsp;6, 2014
+Early bird pricing now available.
+Places are limited so register now.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.13 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-13-released/</link>
+      <pubDate>Wed, 05 Mar 2014 14:16:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-13-released/</guid>
+      <description>Smile software 5.4.13 has been released. This is a maintenance release that includes bug fixes.
+Noteworthy bug fixes  Corrected the ’48 hours’ payment retry delay option that was only delayed 8 hours. Corrected an issue that triggered an error when getting activity for subscription with no usage via SOAP. Corrected an issue that prevented certain subscriptions from being deleted. Corrected an issue that prevented a subscription’s provisioning from being temporarily failed.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.12 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-12-released/</link>
+      <pubDate>Wed, 05 Feb 2014 14:18:00 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-12-released/</guid>
+      <description>Smile software 5.4.12 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software&amp;nbsp;Enhancements  iVox Nice importer now supports incoming calls. The description for charges imported by Hosted Suite importer improved. Tariff code generation for XDRs imported by the Singtel importer improved. Added the ability to prevent invoice dispatch to customers that do not owe money Added the ability to configure default GST schedule on packages, allowing better support for multiple GST schedules.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.10, 5.4.11 Release Note Summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-10-5-4-11-release-note-summary/</link>
+      <pubDate>Tue, 10 Dec 2013 14:19:26 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-10-5-4-11-release-note-summary/</guid>
+      <description>Smile 5.4.11 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features 5.4.11  Add AmCom CDR importer. Add support for Bendigo Bank MIGS payment gateway.  5.4.10  Add Singtel CDR importer. Add iTelecom CDR importer. Add last balance to invoice approvals page. Add ability to change subscription username via SOAP. Add Inmarsat CDR importer. Add ability to create Appointments via the help desk system.</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Recurring Billing white paper</title>
+      <link>http://inomial.tk/post/adaptive-recurring-billing-white-paper/</link>
+      <pubDate>Tue, 03 Dec 2013 14:54:06 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/adaptive-recurring-billing-white-paper/</guid>
+      <description>Inomial’s Adaptive Recurring Billing automatically manages all types of billing use cases, many of&amp;nbsp;which are very difficult to compute manually. Adaptive Recurring Billing allows your product rules to&amp;nbsp;match your customer, technical and business requirements, reduces billing disputes, and improves cash&amp;nbsp;flow with fewer errors and better assurance.
+This flexibility allows your business to generate the correct revenue regardless of the complexity of&amp;nbsp;changes made to the recurring billing configuration of your customers.</description>
+    </item>
+    
+    <item>
+      <title>Case Study Fetch Tv</title>
+      <link>http://inomial.tk/post/case-study-fetch-tv/</link>
+      <pubDate>Fri, 22 Nov 2013 14:55:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/case-study-fetch-tv/</guid>
+      <description>Inomial has signed a major deal with Solomon Islands incumbent Solomon Telekom to provide its billing system for mobile, fixed and Internet services. It’s one of a number of recent deals Inomial has done in the South Pacific this year.
+Solomon Telekom selected Inomial’s Smile Revenue Management solution to replace their legacy billing system that was over 15 years old and was more suited to the fixed network environment it had been introduced for.</description>
+    </item>
+    
+    <item>
+      <title>Easy Mobile Data Sharing With Smile</title>
+      <link>http://inomial.tk/post/easy-mobile-data-sharing-with-smile/</link>
+      <pubDate>Tue, 20 Aug 2013 14:56:36 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/easy-mobile-data-sharing-with-smile/</guid>
+      <description>In Smile, it’s easy to create products where multiple devices all draw from a single, shared pool of data and/or call allowances. This style of billing is common in the US market and is catching on in Australia. Smile has supported this feature for many years.
+For network operators and layer 2 MVNOs, Smile also supports shared policy management; Smile can automatically apply overage policies (such as traffic shaping, call restriction, or walled gardens) to all of the devices which share a given allowance.</description>
+    </item>
+    
+    <item>
+      <title>Inomial Wins Prestigious Acomms Award</title>
+      <link>http://inomial.tk/post/inomial-wins-prestigious-acomms-award/</link>
+      <pubDate>Thu, 08 Aug 2013 14:57:29 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/inomial-wins-prestigious-acomms-award/</guid>
+      <description>We’re honoured to have been selected as the winner of the 2013 ACOMMS Awards for SERVICES TO INDUSTRY – PROFESSIONAL SERVICES.
+The award was based on the deployment of our forthcoming high performance rating product, BigRating, to a customer site. We’ll have more news about BigRating soon.
+“The ACOMM Awards represent the pinnacle of achievement for the Australian communications industry” – Communications Alliance CEO, John Stanton</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.4, 5.4.5, 5.4.6 Release Note Summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-4-5-4-5-5-4-6-release-note-summary/</link>
+      <pubDate>Fri, 14 Jun 2013 14:24:24 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-4-5-4-5-5-4-6-release-note-summary/</guid>
+      <description>Smile 5.4.6 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features &amp;nbsp;5.4.6  Ability to hide contact details from Smile operators on protected accounts. SOAP API for retrieving connection history for subscriptions. SOAP API allowing external components to complete external provisioning.  5.4.5  SOAP API – Submit an account, get a list of transactions. SOAP API – Retrieve connection history. Cisco voice works importer is now subservice aware.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.13, 5.3.14, 5.3.15 – release note summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-x-2012-final-release-note-summary/</link>
+      <pubDate>Mon, 08 Apr 2013 14:26:18 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-x-2012-final-release-note-summary/</guid>
+      <description>Smile 5.3.15 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements 5.3.15  Added the ability to specify that a contract value should be based on a percentage of the plan recurring charges (defaults to 100%).  5.3.13  Transfer instead of Porting of CTS Service. Improvement to the call listings summary for voice subscriptions. Support for Glassfish version 3.1.2.2.  Noteworthy bug fixes 5.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.7, 5.4.8, 5.4.9 Release Note Summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-7-5-4-8-5-4-9-release-note-summary/</link>
+      <pubDate>Tue, 19 Mar 2013 14:22:10 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-7-5-4-8-5-4-9-release-note-summary/</guid>
+      <description>Smile 5.4.9 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features 5.4.9  Added ability to configure tiers of prepaid per plan, allowing customers that purchase prepaid to be rewarded when purchasing again. Added support for Optus Wholesale Gateway mediated usage files. Hosted Suite charges importer.  5.4.8  Added support for Federadius. Added a number of new transaction types to support Bonds and Reimbursements.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.1, 5.4.2, 5.4.3 – release note summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-1-5-4-2-5-4-3-release-note-summary/</link>
+      <pubDate>Fri, 01 Mar 2013 14:29:04 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-1-5-4-2-5-4-3-release-note-summary/</guid>
+      <description>Smile 5.4.3 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements 5.4.3  Subscription document types can now access custom fields for the subscription (previously only account custom fields where available in stationery). Various stationery fields that were available in one document type have been added to others (with more to come). New DNS service type that has a message bus listener and can write out Bind zone files for management of DNS from Smile.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.11, 5.3.12 – release note summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-11-5-3-12-release-note-summary/</link>
+      <pubDate>Wed, 12 Dec 2012 14:30:28 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-11-5-3-12-release-note-summary/</guid>
+      <description>Smile 5.3.12 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements 5.3.12  Improvements to the customisable sales report. Produces better status updates when generating a report. Fixed browser display problem in Firefox where rows could overlap in customisable sales report. Old TaskLog entries are now auto purged to reduce database size. Xero error messages now have more detail. Added the ability to force credit control dispatches into the dispatch queues rather than going directly out.</description>
+    </item>
+    
+    <item>
+      <title>Smile simplifies TCP Code implementation</title>
+      <link>http://inomial.tk/release-notes/smile-simplifies-tcp-code-implementation/</link>
+      <pubDate>Wed, 28 Nov 2012 14:32:19 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-simplifies-tcp-code-implementation/</guid>
+      <description>Today, Inomial announced the release of Smile 5.4, the latest version of its billing, rating and assurance application for telcos, ISPs and utilities. Developed in response to the TCP code changes, this major update introduces TCP compliance, extensive API updates and new spend management tools.
+Smile 5.4 introduces value pools to help you track the included value that customers consume each month. If a customer uses a predeﬁned amount of their value pool, Smile automatically sends them an alert.</description>
+    </item>
+    
+    <item>
+      <title>Smile documentation is now online</title>
+      <link>http://inomial.tk/release-notes/smile-documentation-is-now-online/</link>
+      <pubDate>Fri, 26 Oct 2012 14:33:45 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-documentation-is-now-online/</guid>
+      <description>Our new Document Repository (docs.inomial.com) contains the new Smile 5.4 Developer Guide, documentation for CDR formats and the existing Smile manual. We’ll add a User Guide towards the end of the year and a Configuration Guide in 2013.
+To access the Document Repository, email&amp;nbsp;docs@inomial.com&amp;nbsp;for a username and password. Please share your feedback with us, and let us know if you have any questions or comments.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.10 released</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-10-released/</link>
+      <pubDate>Thu, 11 Oct 2012 14:36:54 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-10-released/</guid>
+      <description>Smile 5.3.10 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements  The Debit Allocations stationery table now shows allocated transactions for itemised credits. The Invoice Item table for Invoice stationery now contains an optional description column. The Hint field of the Payment Log now displays full cheque numbers. Credit control functionality now includes the ability to batch statements. Usage data display for Flow Control subscriptions has been optimised.</description>
+    </item>
+    
+    <item>
+      <title>Recent Enhancements</title>
+      <link>http://inomial.tk/release-notes/recent-enhancements/</link>
+      <pubDate>Mon, 08 Oct 2012 14:38:08 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/recent-enhancements/</guid>
+      <description>We’ve been working hard to make Smile the best rating and billing system in the business. Here’s some of the features we’ve added to Smile 5.3 over the past year:
+ New importer for Optus Wholesale Gateway CDRs New integrations with Telstra InfoTranz and iSeek prepaid gowireless New features for the SOAP API, including self-serve prepaid purchasing, rated activity for invoices and improved error messages New prepaid features, including prepaid types and time-of-day restrictions Improvements to transaction searches, aged debtor reports and usage alert groups Usability updates for the helpdesk, commissions and Flow Control functionality</description>
+    </item>
+    
+    <item>
+      <title>Are All Billing Cycles Created Equal</title>
+      <link>http://inomial.tk/post/are-all-billing-cycles-created-equal/</link>
+      <pubDate>Tue, 11 Sep 2012 14:58:47 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/are-all-billing-cycles-created-equal/</guid>
+      <description>A billing cycle dictates when invoices are sent and when they are due, and impacts your cash flow and the utilisation of network resources. Smile supports monthly and anniversary billing cycles, but what’s the difference between the two?
+If you use a monthly billing cycle, the invoices for all customers are generated on the same day each month. This is a good option for smaller businesses, because you only need to process the billing run once a month.</description>
+    </item>
+    
+    <item>
+      <title>Inomial Brings A Smile To Internodes New Mobile Offering</title>
+      <link>http://inomial.tk/post/inomial-brings-a-smile-to-internodes-new-mobile-offering/</link>
+      <pubDate>Wed, 22 Aug 2012 14:59:52 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/inomial-brings-a-smile-to-internodes-new-mobile-offering/</guid>
+      <description>Inomial recently partnered with Internode, one of Australia’s largest telecommunications carriers, to implement Smile as a revenue system for Internode’s new NodeMobile voice offering. Developed by Inomial, Smile helps telcos and ISPs manage their revenue and collections.
+Inomial and Internode have created a solution that Internode founder Simon Hackett describes as an “awesome product”. Inomial’s agile development team extended Smile to meet Internode’s requirements, providing a smooth integration into existing systems.</description>
+    </item>
+    
+    <item>
+      <title>Understanding The Cloud</title>
+      <link>http://inomial.tk/post/understanding-the-cloud/</link>
+      <pubDate>Mon, 29 Aug 2011 15:01:07 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/understanding-the-cloud/</guid>
+      <description>I was recently invited by Ballarat ICT to give a talk about “understanding the cloud”. I don’t often speak at this kind of thing and it was great fun to flex my Keynote skills, and some of the research I did for the talk was quite interesting.
+Among other things, I made the point that consolidating and sharing IT resources is not at all new; we’ve been doing it since the dawn of the CPU.</description>
+    </item>
+    
+    <item>
+      <title>Newsat Business Results</title>
+      <link>http://inomial.tk/post/newsat-business-results/</link>
+      <pubDate>Fri, 08 Jul 2011 15:02:56 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/newsat-business-results/</guid>
+      <description>From July 7 Communications Day: “Satellite firm NewSat has bagged another A$2.35 million in new business contracts across its well-established military, mining, construction and naval stomping grounds. The wins take the company’s total new business haul in FY11 to A$16 million.”</description>
+    </item>
+    
+    <item>
+      <title>Zettagrid Cloud Launch</title>
+      <link>http://inomial.tk/post/zettagrid-cloud-launch/</link>
+      <pubDate>Fri, 08 Jul 2011 15:02:03 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/zettagrid-cloud-launch/</guid>
+      <description>From Communications Day, July 6th: “Australian cloud services provider ZettaGrid has launched its VMware vCloud Connector beta programme to assist customers in managing a hybrid cloud environment.”</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.0 is now in beta</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-0-is-now-in-beta/</link>
+      <pubDate>Fri, 08 Jul 2011 14:39:21 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-0-is-now-in-beta/</guid>
+      <description>The next major version of Smile has now entered beta. This version includes some major new features and important back-end changes to support future development.
+New Features  SOAP API IPv6 RADIUS support Improvements to helpdesk search Credit control actions on expiring credit cards, this allows expiring credit card notifications and more Smile’s RADIUS server may now be run on a separate server Support for RADIUS Disconnect Messages Credit control now supports sending reminders for individual invoices Support for Telstra Ebill and Infotranz New “Inactive Accounts” report allowing you to zero the balance of accounts that haven’t had a transaction recently Support for Australia Post Billpay Support for the “Payment Express” payment gateway Support for multiple “One of many” plan options  Enhancements  Improved user interface when entering adjustments It is now possible to email tickets as PDFs Many smaller improvements to the user interface  Noteworthy Bug Fixes  Search performance improvement Improved performance of some CAT activity pages  Please note that minor bug fixes and changes to custom code may not be included in the above release notes.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.2.6 is now in beta</title>
+      <link>http://inomial.tk/release-notes/smile-5-2-6-is-now-in-beta/</link>
+      <pubDate>Thu, 07 Jul 2011 14:40:34 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-2-6-is-now-in-beta/</guid>
+      <description>Smile 5.2.6 is now in beta. This is a maintenance release including key improvements and bug fixes.
+Enhancements  The transaction report may now filter on payment types Adds an action for cancelling all pending dispatches to the pending dispatch page Improves the Overdue Accounts report by adding more information that is useful for debt collection Smile can now raise helpdesk tickets and send notifications when importers fail  Noteworthy Bug Fixes  Fixes a race condition that sometimes caused duplicate data to be imported when retrying failed imports Fixes account type filtering on the banking report Fixes some problems dispatching printed declined notices and credit control reminders  Please note that minor bug fixes and changes to custom code may not be included in the above release notes.</description>
+    </item>
+    
+    <item>
+      <title>Telstra Reaches Agreement With Nbnco</title>
+      <link>http://inomial.tk/post/telstra-reaches-agreement-with-nbnco/</link>
+      <pubDate>Thu, 23 Jun 2011 15:03:59 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/telstra-reaches-agreement-with-nbnco/</guid>
+      <description>“The deal between Telstra and NBN Co still needs to be approved by the phone company’s shareholders, but it is not expected to face major investor opposition.”
+Read more</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.2.5 is now in beta</title>
+      <link>http://inomial.tk/release-notes/smile-5-2-5-is-now-in-beta/</link>
+      <pubDate>Tue, 24 May 2011 14:41:31 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-2-5-is-now-in-beta/</guid>
+      <description>We’ve just promoted Smile 5.2.5 to beta. Smile 5.2.5 is mostly a maintenance release, but there’re a couple of noteworthy new features:
+New Features  Work Queues view of the helpdesk This new feature gives a high level view of what’s going on in helpdesk. Changes to the Password Manager The password manager now allows you to search for subscriptions meaning you don’t have to look through a few pages to find the subscription whose password you need to change.</description>
+    </item>
+    
+    <item>
+      <title>Platform Networks Helping Deploy Greenfield Fibre</title>
+      <link>http://inomial.tk/post/platform-networks-helping-deploy-greenfield-fibre/</link>
+      <pubDate>Mon, 16 May 2011 15:04:53 +0400</pubDate>
+      
+      <guid>http://inomial.tk/post/platform-networks-helping-deploy-greenfield-fibre/</guid>
+      <description>From&amp;nbsp;itNews:
+“…there’s still many opportunities for smaller players to be involved in [the greenfield deployment] market,” Platform Networks managing director David Hooton said.
+“We have an agreement with Comverge to assist them in developing their retail service provider channel. We’re doing service delivery, they’re doing the [network] building.”
+Platform Networks was recently named the only wholesale-only participant in mainland NBN first release sites, bolstering its NBN credentials.
+Hooton said he and Comverge were “very keen to hear from any greenfields developers”.</description>
+    </item>
+    
+  </channel>
+</rss>

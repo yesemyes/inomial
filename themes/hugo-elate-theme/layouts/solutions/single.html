@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+        {{ partial "head.html" .}}
+    </head>
+    <body>
+        {{ partial "nav-about.html" .}}
+        {{ if .Params.img }}
+        <div class="bg" style="position: absolute; top: 0; min-height: 500px; width: 100%; overflow: hidden;">
+
+            <div class="headerBGFon"></div>
+            <div class="post-background" style="position: absolute; top: 0; width: 100%; min-height: 500px; background-image: url({{ .Params.img }}); background-position: center center; background-repeat: no-repeat; background-size: cover; transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;"></div>
+  
+        </div>
+        {{ end }}
+		<section id="fh5co-solutions" data-section="solutions" {{ if .Params.img }} style="padding-top: 390px;" {{ end }}>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-center to-animate fadeInUp animated">
+						<h2 class="text-center vagr{{ if .Params.img }} white {{ end }}">{{ with .Site.Params.solutions.title }}{{ . | markdownify }}{{ end }}</h2>
+						<div class="text-left prNova">{{ with .Site.Params.solutions.description }}{{ . | markdownify }}{{ end }}</div>
+						
+						<h3 class="text-center subHeaderColor vagr">{{ with .Site.Params.solutions.title_two }}{{ . | markdownify }}{{ end }}</h3>
+						<div class="text-left prNova">{{ with .Site.Params.solutions.description_two }}{{ . | markdownify }}{{ end }}</div>
+					</div>
+				</div>
+				<div class="row">
+				{{ range .Site.Params.solutions.item }}
+					<div class="col-md-6 to-animate">
+						<div class="box-testimony">
+							<blockquote>
+								<p class="icon to-animate-2 subHeaderColor">{{ .quote | markdownify}}</p>
+							</blockquote>
+							<div class="author prNova f18px">
+								<p>{{ .desc | markdownify }} <a href='{{ .url }}'>Learn more…</a></p>
+							</div>
+						</div>
+					</div>
+				{{ end }}
+				</div>
+				<div class="row">
+					<div class="col-md-12 section-heading text-left">
+						<h3 class="text-center subHeaderColor vagr">{{ with .Site.Params.solutions.smile.title }}{{ . | markdownify }}{{ end }}</h3>
+						<p class="prNova">{{ with .Site.Params.solutions.smile.desc }}{{ . | markdownify }}{{ end }}</p>
+						<div class="row">
+						{{ range .Site.Params.solutions.smile.item }}
+							<div class="col-md-4 subtext minH310 icon to-animate-2">
+								<a href="{{ .url }}">
+									<img src="/images/{{ .img }}" alt="{{ .title }}">
+									<h3 class="vagr">{{ .title }}</h3>
+								</a>
+								<div class="prNova f18px">{{ .desc }}</div>
+								<p><a href="{{ .Site.BaseUrl }}{{ .url }}" class="more-link">Read more</a></p>
+							</div>
+						{{ end }}
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+{{ if .Site.Params.footer.enable }}
+            {{ partial "footer.html" .}}
+        {{ end }}
+
+    {{ partial "js.html" .}}
+    </body>
+</html>

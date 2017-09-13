@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release-notes on inomial</title>
+    <link>http://inomial.tk/release-notes/</link>
+    <description>Recent content in Release-notes on inomial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2017 10:40:05 +0400</lastBuildDate>
+    
+	<atom:link href="http://inomial.tk/release-notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smile 6.0.9 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6.0.9-released/</link>
+      <pubDate>Wed, 10 May 2017 10:40:05 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6.0.9-released/</guid>
+      <description>Smile software 6.0.9 has been released. This release includes 3 features and 2 enhancements.
+Features  Added support for importing customer’s payment details from CBA BPoint Added support for CBA BPoint Direct Debit payments Introduced Tax Treatments which allow different line items to be taxed at different rates  Enhancements  Optus Wholesale Gateway CDR Importer (FTP) importers now support multiple services Added a new description for InfoTranz failure code 76 for ‘Cease sale due to service in NBN area’  Minor fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.8 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-8-released/</link>
+      <pubDate>Mon, 10 Apr 2017 11:38:22 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-8-released/</guid>
+      <description>Smile 6.0.8 has been released. This release includes 1 enhancement.
+Enhancements  Added checkbox to filter closed subscriptions from Subscription table 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.7 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-7-released/</link>
+      <pubDate>Mon, 27 Feb 2017 11:44:06 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-7-released/</guid>
+      <description>Smile 6.0.7 has been released. This release includes 2 enhancements.
+Enhancements  Removed a limitation on the number of CDRs that can be stored Added a table view of auto-updated active connections of a subscription 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.6 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-6-released/</link>
+      <pubDate>Fri, 10 Feb 2017 11:45:48 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-6-released/</guid>
+      <description>Smile software 6.0.6 has been released. This release includes 3 features.
+Smile Software Features  Added EziDebit real-time credit card and direct debit support for EziDebit API 3.5 Added automatic payment processing for quick batch credit card to Westpac Added automatic payment processing support for direct debit to Westpac 
+Minor fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.5 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-5-released/</link>
+      <pubDate>Wed, 07 Dec 2016 11:50:59 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-5-released/</guid>
+      <description>Smile 6.0.5 has been released. This release includes 2 features and 1 enhancement.
+Features  Added Smile software standard CSV invoice charge importer More fields supported in the Flexible CSV-based invoice charge importer  Enhancements  Westpac Recall BPay payment importer now supports PGP decryption 
+Minor fixes and changes to custom code in Smile software are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.37 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-37-released/</link>
+      <pubDate>Wed, 07 Dec 2016 11:48:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-37-released/</guid>
+      <description>Smile software 5.4.37 has been released. This release includes 1 feature and 2 enhancements.
+Features  New SOAP API to reserve USNs for ordering  Enhancements  Updated the SZU database Line item’s accounts added to ItemisedTransactionDetail documents in the API to support Bill-To accounts better 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.36 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-36-released/</link>
+      <pubDate>Wed, 30 Nov 2016 11:53:23 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-36-released/</guid>
+      <description>Smile 5.4.36 has been released. This release includes 2 enhancements.
+Enhancements  Added configuration to hide inactive subscriptions in CAT on a per service basis Added a new SOAP API to get account information excluding its subscriptions 
+Minor fixes and changes to custom code are not included in this summary
+Note: The Smile software 5.4.35 release only contained minor fixes and custom code.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.4 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-4-released/</link>
+      <pubDate>Thu, 03 Nov 2016 11:55:01 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-4-released/</guid>
+      <description>Smile software 6.0.4 has been released.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.3 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-3-released/</link>
+      <pubDate>Thu, 22 Sep 2016 11:56:00 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-3-released/</guid>
+      <description>Smile software 6.0.3 has been released.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.2 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-2-released/</link>
+      <pubDate>Wed, 07 Sep 2016 12:22:55 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-2-released/</guid>
+      <description>Smile software 6.0.2 has been released. This release includes 4 enhancements.
+Enhancements  Deferred charges table converted to a Vaadin table The number of active subscriptions will be displayed in Operator and returned via SOAP using getAccountSummary() Moved the Settlement Reconciliation report into Operator Reference-type custom fields can now also refer to office locations 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.34 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-34-released/</link>
+      <pubDate>Wed, 07 Sep 2016 11:56:46 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-34-released/</guid>
+      <description>Smile software 5.4.34 has been released. This release includes 3 enhancements.
+Enhancements  Allow users to view the details of ordered subscriptions and accounts from an ordering ticket Improved performance of several of the reporting schema functions New RTR subscriptions will be prioritised so they are completed more quickly when rerates are in progress 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.1 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-1-released/</link>
+      <pubDate>Fri, 12 Aug 2016 12:24:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-1-released/</guid>
+      <description>Smile software 6.0.1 has been released. This release includes 1 feature and 1 enhancement.
+Features  Operator has the ability to manage Bill To accounts  Enhancements  Future billing now displays a rerating message if a subscription is rerating 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.33 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-33-released/</link>
+      <pubDate>Wed, 10 Aug 2016 12:26:33 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-33-released/</guid>
+      <description>Smile software 5.4.33 has been released. This release includes 1 feature and 3 enhancements.
+Features  SOAP API for managing scheduled payments  Enhancements  Optus SP/EEDI CDR importers are now multi-service capable Added JMX monitoring support to CDR aggregator Advanced search now allows substitution codes and email templates to be used in emails sent when result type is subscriptions 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 6.0.0 Released</title>
+      <link>http://inomial.tk/release-notes/smile-6-0-0-released/</link>
+      <pubDate>Wed, 13 Jul 2016 12:29:53 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-0-0-released/</guid>
+      <description>Smile software 6.0.0 has been released. This release includes 16 features and 20 enhancements.
+Features  Manual management for Westpac credit card gateway Flexible CSV-based invoice charge importer SOAP API for migrating an invoice from one account to another Invoices detail columns added to stationery types Users can be redirected to external application for ordering subscriptions Manual management for Westpac direct debit gateway Westpac RECall BPay payment importer Analytics reports have individual access control lists for managing permissions Subscription Migrator to import subscriptions from a CSV Notification scheduling to control when notifications are sent Flexible CSV importer Expiring purchase orders report Responsive credit control View future invoices for entire accounts through user interface or SOAP API Purchase order support View future billing on an entire account  Enhancements  Alert level information in Account Summary and Transaction List New message bus topic SmileChargeTopic; sends DeferredChargeMsg when deferred charges are created Search for custom field on accounts, subscriptions and invoice line items Custom fields on invoice line items AAPT CTOP importer now uses ‘special field 1’ as username for ‘Softswitch as a Service’ records by default Custom field codes are auto-generated if not provided and they will be unique and contain valid characters Support for a street type suffix Billing address Street address Support for SFTP when using Westpac direct debit payment gateway Credit control account treatment levels will only be escalated whenever new recurring task updateDispositionsTask runs Ability to raise a surcharge via document action Add start date to purchase order configuration New notifications in Credit Control for when an invoice, receipt or RCTI is raised Notifications support for printing New SOAP API for plan configuration and charging rule overrides are now returned/requested in PlanScheduleItem elements in SOAP API response/request Payment declined message body on SmileTransactionTopic contains more detailed information about payment failure Ability to define declined payment emails and SMSs in credit control configuration New SOAP API method WSSubscription.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.32 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-32-released/</link>
+      <pubDate>Fri, 08 Jul 2016 12:36:13 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-32-released/</guid>
+      <description>Smile software 5.4.32 has been released. This release includes 2 features and 2 enhancements.
+Smile Billing Features  Added support in Federadius for sending a copy of all RADIUS accounting to secondary accounting servers Added ability to upload and download CSV of closed user group members  Enhancements  Improved RTR performance for releasing billing Added the Tariff type name column to itemised CDR tables in stationery 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.31 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-31-released/</link>
+      <pubDate>Tue, 31 May 2016 12:38:36 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-31-released/</guid>
+      <description>Smile software 5.4.31 has been released. This release includes 1 feature.
+ Added the ability to display a custom field in Account and Subscription search results  Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.30 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-30-released/</link>
+      <pubDate>Thu, 05 May 2016 12:39:52 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-30-released/</guid>
+      <description>Smile software 5.4.30 has been released. This release includes 4 features and 1 enhancement.
+Features  New SOAP API for assigning a subscription to a cost centre New SOAP API to&amp;nbsp;create, update, search and delete a cost centre Added support for partitioned database tables in RTR  Enhancements  Additional invoice grouping behaviours to group subscription line items 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.29 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-29-released/</link>
+      <pubDate>Wed, 13 Apr 2016 12:41:47 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-29-released/</guid>
+      <description>Smile software 5.4.29 has been released. This release includes 2 features and 2 enhancements.
+Smile Software Features  New SOAP API for custom database entry management New SOAP API for listing pending payments on an account  Enhancements  Allow CDRs of 0 seconds duration to be chargeable via new setting on Tariff Type Added CSV download button for RADIUS session list
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.28 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-28-released/</link>
+      <pubDate>Fri, 29 Jan 2016 12:43:45 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-28-released/</guid>
+      <description>Smile software 5.4.28 has been released. This release includes 4 enhancements.
+Smile Software Enhancements  Added Features tab to for all services, not just data services Ciscoworks Importer can now import SIP CDRs Significant performance improvements to large invoice production Added Save for Later button to subscription order editing screen, initial plans of yet-to-be-activated subscriptions can now be edited 
+Minor fixes and changes to custom code are not included in this summary</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.27 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-27-released/</link>
+      <pubDate>Tue, 15 Dec 2015 12:44:58 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-27-released/</guid>
+      <description>Smile software 5.4.27 has been released. This release includes 6 enhancements.
+Smile Software Enhancements  Added new invoice substitution code {closeDate} that displays when an invoice was closed Reduced the performance impact of RTR when idle Added the ability to update compound custom fields and gender in account or subscription via SOAP Added options on Tariff Type form to hide zero dollar line items from invoices and stop them from being printed Added availability dates to public schema plan view Added support for forwarded calls through the Huawei NGN importer</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.26 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-26-released/</link>
+      <pubDate>Tue, 29 Sep 2015 12:47:12 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-26-released/</guid>
+      <description>Smile software 5.4.26 has been released. This release includes 9 enhancements to Smile billing.
+Enhancements  New SOAP APIs for listing available plans Added real time rating support to CDR Importers (does not include support for reversal or cancellation CDRs) New SOAP APIs for service destinations and tariff types. Tariff overrides are now returned/requested in PlanScheduleItem elements in SOAP API response/request SOAP API support for listing incomplete provision requests on a subscription Added notifications support in credit control treatment level actions Credit control treatment action Raise Fee (formerly known as Raise Percentage Fee) can now also raise fixed-amount late fees.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.25 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-25-released/</link>
+      <pubDate>Tue, 04 Aug 2015 12:48:31 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-25-released/</guid>
+      <description>Smile software 5.4.25 has been released. This release includes the ability to configure custom fields on manual invoice line items, a Point payment reconciler and 6 enhancements.
+Features  Added support for configuring custom fields on manual invoice line items Added BPoint payment reconciliation  Enhancements  Updated the SOAP API method Account.getTransactionList() to filter transactions by date Added new invoice document fields for adjustments/surcharges with/without GST, charges and GST since last invoice.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.24 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-24-released/</link>
+      <pubDate>Thu, 16 Jul 2015 12:49:43 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-24-released/</guid>
+      <description>Smile software 5.4.24 has been released. This release includes the ability to list cost centres in the SOAP API, send prepaid expiry warnings, view future billing on an entire account, a new importer and 8 enhancements.
+Features  Added ability to list cost centres through the SOAP API Added ability to send prepaid expiry warning alerts when usage blocks are about to expire Added Syniverse THS importer Added ability to view future billing on an entire account  Enhancements  Improved loading performance of the Generate Invoices page when there are many importer item failures Added ability to override cost centres on invoice line items in the SOAP API Added ability to edit child items of a roll up item Increased the maximum number in the public numbers system from 10 digits to 19 digits (excluding prefix, suffix and check digit) Added ‘Item count’ and other document columns missing from ‘Non GST items’ table Added “Account trading name’ document field to many stationery document types Added capability to control whether operators can update account contact details Subscription billing invoicing/rating periods of children may now be aligned to the master</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.23 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-23-released/</link>
+      <pubDate>Fri, 03 Jul 2015 12:51:01 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-23-released/</guid>
+      <description>Smile software 5.4.23 has been released. This release includes&amp;nbsp;2&amp;nbsp;enhancements.
+Smile Billing Enhancements  Added Service name into the Sales Report itemised CSV version Plan names are now returned in PlanScheduleItem elements in SOAP API responses 
+Minor fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.22 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-22-released/</link>
+      <pubDate>Fri, 15 May 2015 12:52:12 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-22-released/</guid>
+      <description>Smile software 5.4.22 has been released. This release includes a new ability to roll up subscription automation charges, support for BPoint payments, a Telcoinabox importer and 6 enhancements.
+Features  Added the ability to configure Smile billing to roll up subscription automation charges Added support for BPoint (CBA) credit card and token payments Added Telcoinabox CDR Importer  Enhancements  Added the ability to run scripts that enact RADIUS features as the current user Call ratings report now allows downloading of a CSV file containing the report CDRs Performance improvements to real time rating Improved performance of CDRME CDRME guidance rules now have ability to convert usernames to either e.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.21 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-21-released/</link>
+      <pubDate>Tue, 07 Apr 2015 12:54:07 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-21-released/</guid>
+      <description>Smile software 5.4.21 has been released. This release includes a new SOAP API for allocating transactions, an Ezidebit BPay importer, the ability to automatically add included usage blocks, 4 enhancements and 8 bug fixes.
+Features  Added ability to automatically add included usage blocks to subscriptions each billing period Added ability to import Ezidebit BPay payments into Smile Added a new SOAP API for allocating transactions  Enhancements  Added ability to override the cost centre on Invoice line items Added ability to perform auto allocation of transactions via the API Added new document fields: total of bonds, paid bonds and unpaid bonds at time of printing and invoicing Added ability to configure FTP port and passive mode for CDR importers  Noteworthy bug fixes  Fixed a problem where commission reversals might cause printing of RCTI to fail Fixed Sales Per Account Report to display given and family name if company name is not set Fixed an issue where searching for a users by IP address was not working in some circumstances Fixed an RTR bug where invoicing periods could be prematurely released if subscriptions do not share invoicing period with account Resolved an issue where the AAPT CTOP importer would erroneously record calls between 12:00 and 13:00 as between 00:00 and 01:00 Fixed an issue where Smile is unable to create invoice for an RTR subscription that is GST exempt ISBillCdrUsage importer now imports wholesale charges Resolved an issue that closed a period, when rerating a period that was previously published</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.20 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-20-released/</link>
+      <pubDate>Fri, 06 Feb 2015 12:56:25 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-20-released/</guid>
+      <description>Smile software 5.4.20 has been released. This release includes a new SOAP API for accounts receivable configuration and 6 bug fixes.
+Features  Added a new SOAP API for accounts receivable configuration  Noteworthy bug fixes  Resolved an issue that prevented the provisioning of 1300 numbers through Telstra InfoTranz Fixed an issue where a spurious invoice with a termination charge was raised upon closing a subscription with an active contract Fixed an issue that could cause an error when attempting to display certain emails Altered the display of some time fields to 24h time to remove am/pm ambiguity Fixed a problem that would prevent ticket actions from being configured to send emails on multi-company databases Fixed a problem raising feature recurring charges for features subscribed to multiple times by the same subscriber at the same time  Minor bug fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 6 Release Updates</title>
+      <link>http://inomial.tk/release-notes/smile-6-release-updates/</link>
+      <pubDate>Fri, 21 Nov 2014 12:58:15 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-6-release-updates/</guid>
+      <description>Smile 6 is the most significant update of Smile billing ever. Over the coming months&amp;nbsp;we’re going to introduce you to some of the awesome new features that we will be delivering to you early next year.
+As we publish new updates we will add them here. If you would like to be added to our mailing list to get updates as soon as they are available, sign up at the Subscribe page.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.19 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-19-released/</link>
+      <pubDate>Mon, 10 Nov 2014 13:01:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-19-released/</guid>
+      <description>Smile software 5.4.19 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features  Added InfoX MMS importer Added InfoX SMS importer Updated the existing Singtel Importer for a new service, Singtel Fleet Broadband (FBB) Added ability to automatically run document actions when features are added or removed from subscriptions Added ability to drop radius interim update packets that have not be processed within a certain time since receipt Added ISPhone Charge importer Added SOAP API for subservices  Enhancement  Helpdesk email poller now accepts a configurable maximum email size above which emails will not be downloaded (by default all emails are downloaded) Added a new call type for ISDN Minor improvements to the Top Customers report Added ability to download the Commission Earner history table to CSV Improved load performance of the usage graph for RADIUS subscriptions Added ability to display cat username and password on account documents  Noteworthy bug fixes  Fixed an issue that occurred when Big Rating subscriptions were configured with feature recurring billing charges Fixed an issue that could prevent the summarisation of like invoice items Fixed an issue that could cause a connection leak in rare circumstances Corrected an issue where RTR would sometimes attempt to rerate the same subscription twice at the same time Improvements to Telstra Infotranz integration Rounded values from EziDebit to the nearest cent to prevent floating-point problems Improved helpdesk email poller integration with gmail UI validates the static IPv4 Address and IPv4 Netmask field on the RADIUS configuration page Improved performance of plan change poller for large numbers of subscriptions Fixed an issue where Smile failed to store a payment token against an account via SOAP Stopped the sending of declined emails for manual payments  Minor bug fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.18 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-18-released/</link>
+      <pubDate>Mon, 22 Sep 2014 13:03:28 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-18-released/</guid>
+      <description>Smile software 5.4.18 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features  Added SOAP API for managing simple recurring charges (user auto-charges) Added SOAP API for managing automated subscription contracts Added ability to update the expiry field for token based NAB Transact payment methods without requiring the credit card number Added a new Inomial RADIUS attribute for marking accounting packets as ignorable Added SOAP API CRM.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.17 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-17-released/</link>
+      <pubDate>Mon, 04 Aug 2014 13:05:48 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-17-released/</guid>
+      <description>Smile software 5.4.17 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software&amp;nbsp;Features  New message bus Topic and messages for Connection start, stop, reopen and features updated Ability to update prepaid blocks via API Add ability to manage IP allocations assigned to a Flow Control subscription via SOAP New Flow Control listener for Smile billing IP allocation events  Enhancements  Add support for Cisco specific identifier in RADIUS packets Add better start date for statement sent via Credit Control Improve performance of PDF generation with large tables NAS Script changes are now logged Add index to improve importer error retries Add index to improve Account loading Improve speed of the pending approvals page Improve speed of RTR Add subscription email address to order form  Noteworthy bug fixes  Fixed a bug relating to deleted spend limits when rating a customer Fixed a bug where tokens were not removed when updating a customers payment type to a non token type Fixed a bug where Big Rating recurring charge retractions were not honoured Fixed an issue where emails come into tickets as attachments instead of text  Minor Smile billing bug fixes and changes to custom code are not included in this summary.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.16 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-16-released/</link>
+      <pubDate>Tue, 01 Jul 2014 13:09:42 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-16-released/</guid>
+      <description>Smile software 5.4.16 has been released. This is a maintenance release that includes a number of bug fixes.
+Noteworthy bug fixes  Resolved an issue where feature updated message were only sent if Radius server is running. Also resolved a class of deadlocks. Fixed a problem with&amp;nbsp;SOAP view password permission breaking other permissions. Resolved an issue caused an error when buying prepaid top up, which had prepaid type set up. Fixed an issue with rounding of GST calculations which would result in GST amounts being 1c off.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.15 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-15-released/</link>
+      <pubDate>Mon, 19 May 2014 13:11:07 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-15-released/</guid>
+      <description>Smile software&amp;nbsp;5.4.15 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software Enhancements  Support added for multiple policies (features) on plan rules.  Noteworthy bug fixes  Corrected an issue that could prevent new RADIUS sessions from having the correct policies applied if the policy was not in the access accept packet. Added SOAP changePlan methods (Smile and Big Rating) accept and honour recurring charge overrides in plan change requests.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.14 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-14-released/</link>
+      <pubDate>Wed, 16 Apr 2014 13:12:32 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-14-released/</guid>
+      <description>Smile software&amp;nbsp;5.4.14 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software&amp;nbsp;Enhancements  Support added for Bendigo Bank Direct Debit. UI performance improvements for accounts that have large numbers of subscriptions. Support added for Bendigo Bank BPay payment files. RADIUS performance for subscriptions that do not have any valid prepaid improved. Australia Post BillPay payment importer will now skip payments that have already been imported.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.13 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-13-released/</link>
+      <pubDate>Wed, 05 Mar 2014 14:16:39 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-13-released/</guid>
+      <description>Smile software 5.4.13 has been released. This is a maintenance release that includes bug fixes.
+Noteworthy bug fixes  Corrected the ’48 hours’ payment retry delay option that was only delayed 8 hours. Corrected an issue that triggered an error when getting activity for subscription with no usage via SOAP. Corrected an issue that prevented certain subscriptions from being deleted. Corrected an issue that prevented a subscription’s provisioning from being temporarily failed.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.12 Released</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-12-released/</link>
+      <pubDate>Wed, 05 Feb 2014 14:18:00 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-12-released/</guid>
+      <description>Smile software 5.4.12 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Smile Software&amp;nbsp;Enhancements  iVox Nice importer now supports incoming calls. The description for charges imported by Hosted Suite importer improved. Tariff code generation for XDRs imported by the Singtel importer improved. Added the ability to prevent invoice dispatch to customers that do not owe money Added the ability to configure default GST schedule on packages, allowing better support for multiple GST schedules.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.10, 5.4.11 Release Note Summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-10-5-4-11-release-note-summary/</link>
+      <pubDate>Tue, 10 Dec 2013 14:19:26 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-10-5-4-11-release-note-summary/</guid>
+      <description>Smile 5.4.11 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features 5.4.11  Add AmCom CDR importer. Add support for Bendigo Bank MIGS payment gateway.  5.4.10  Add Singtel CDR importer. Add iTelecom CDR importer. Add last balance to invoice approvals page. Add ability to change subscription username via SOAP. Add Inmarsat CDR importer. Add ability to create Appointments via the help desk system.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.4, 5.4.5, 5.4.6 Release Note Summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-4-5-4-5-5-4-6-release-note-summary/</link>
+      <pubDate>Fri, 14 Jun 2013 14:24:24 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-4-5-4-5-5-4-6-release-note-summary/</guid>
+      <description>Smile 5.4.6 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features &amp;nbsp;5.4.6  Ability to hide contact details from Smile operators on protected accounts. SOAP API for retrieving connection history for subscriptions. SOAP API allowing external components to complete external provisioning.  5.4.5  SOAP API – Submit an account, get a list of transactions. SOAP API – Retrieve connection history. Cisco voice works importer is now subservice aware.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.13, 5.3.14, 5.3.15 – release note summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-x-2012-final-release-note-summary/</link>
+      <pubDate>Mon, 08 Apr 2013 14:26:18 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-x-2012-final-release-note-summary/</guid>
+      <description>Smile 5.3.15 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements 5.3.15  Added the ability to specify that a contract value should be based on a percentage of the plan recurring charges (defaults to 100%).  5.3.13  Transfer instead of Porting of CTS Service. Improvement to the call listings summary for voice subscriptions. Support for Glassfish version 3.1.2.2.  Noteworthy bug fixes 5.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.7, 5.4.8, 5.4.9 Release Note Summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-7-5-4-8-5-4-9-release-note-summary/</link>
+      <pubDate>Tue, 19 Mar 2013 14:22:10 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-7-5-4-8-5-4-9-release-note-summary/</guid>
+      <description>Smile 5.4.9 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Features 5.4.9  Added ability to configure tiers of prepaid per plan, allowing customers that purchase prepaid to be rewarded when purchasing again. Added support for Optus Wholesale Gateway mediated usage files. Hosted Suite charges importer.  5.4.8  Added support for Federadius. Added a number of new transaction types to support Bonds and Reimbursements.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.4.1, 5.4.2, 5.4.3 – release note summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-4-1-5-4-2-5-4-3-release-note-summary/</link>
+      <pubDate>Fri, 01 Mar 2013 14:29:04 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-4-1-5-4-2-5-4-3-release-note-summary/</guid>
+      <description>Smile 5.4.3 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements 5.4.3  Subscription document types can now access custom fields for the subscription (previously only account custom fields where available in stationery). Various stationery fields that were available in one document type have been added to others (with more to come). New DNS service type that has a message bus listener and can write out Bind zone files for management of DNS from Smile.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.11, 5.3.12 – release note summary</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-11-5-3-12-release-note-summary/</link>
+      <pubDate>Wed, 12 Dec 2012 14:30:28 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-11-5-3-12-release-note-summary/</guid>
+      <description>Smile 5.3.12 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements 5.3.12  Improvements to the customisable sales report. Produces better status updates when generating a report. Fixed browser display problem in Firefox where rows could overlap in customisable sales report. Old TaskLog entries are now auto purged to reduce database size. Xero error messages now have more detail. Added the ability to force credit control dispatches into the dispatch queues rather than going directly out.</description>
+    </item>
+    
+    <item>
+      <title>Smile simplifies TCP Code implementation</title>
+      <link>http://inomial.tk/release-notes/smile-simplifies-tcp-code-implementation/</link>
+      <pubDate>Wed, 28 Nov 2012 14:32:19 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-simplifies-tcp-code-implementation/</guid>
+      <description>Today, Inomial announced the release of Smile 5.4, the latest version of its billing, rating and assurance application for telcos, ISPs and utilities. Developed in response to the TCP code changes, this major update introduces TCP compliance, extensive API updates and new spend management tools.
+Smile 5.4 introduces value pools to help you track the included value that customers consume each month. If a customer uses a predeﬁned amount of their value pool, Smile automatically sends them an alert.</description>
+    </item>
+    
+    <item>
+      <title>Smile documentation is now online</title>
+      <link>http://inomial.tk/release-notes/smile-documentation-is-now-online/</link>
+      <pubDate>Fri, 26 Oct 2012 14:33:45 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-documentation-is-now-online/</guid>
+      <description>Our new Document Repository (docs.inomial.com) contains the new Smile 5.4 Developer Guide, documentation for CDR formats and the existing Smile manual. We’ll add a User Guide towards the end of the year and a Configuration Guide in 2013.
+To access the Document Repository, email&amp;nbsp;docs@inomial.com&amp;nbsp;for a username and password. Please share your feedback with us, and let us know if you have any questions or comments.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.10 released</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-10-released/</link>
+      <pubDate>Thu, 11 Oct 2012 14:36:54 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-10-released/</guid>
+      <description>Smile 5.3.10 has been released. This is a maintenance release that includes key improvements and bug fixes.
+Enhancements  The Debit Allocations stationery table now shows allocated transactions for itemised credits. The Invoice Item table for Invoice stationery now contains an optional description column. The Hint field of the Payment Log now displays full cheque numbers. Credit control functionality now includes the ability to batch statements. Usage data display for Flow Control subscriptions has been optimised.</description>
+    </item>
+    
+    <item>
+      <title>Recent Enhancements</title>
+      <link>http://inomial.tk/release-notes/recent-enhancements/</link>
+      <pubDate>Mon, 08 Oct 2012 14:38:08 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/recent-enhancements/</guid>
+      <description>We’ve been working hard to make Smile the best rating and billing system in the business. Here’s some of the features we’ve added to Smile 5.3 over the past year:
+ New importer for Optus Wholesale Gateway CDRs New integrations with Telstra InfoTranz and iSeek prepaid gowireless New features for the SOAP API, including self-serve prepaid purchasing, rated activity for invoices and improved error messages New prepaid features, including prepaid types and time-of-day restrictions Improvements to transaction searches, aged debtor reports and usage alert groups Usability updates for the helpdesk, commissions and Flow Control functionality</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.3.0 is now in beta</title>
+      <link>http://inomial.tk/release-notes/smile-5-3-0-is-now-in-beta/</link>
+      <pubDate>Fri, 08 Jul 2011 14:39:21 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-3-0-is-now-in-beta/</guid>
+      <description>The next major version of Smile has now entered beta. This version includes some major new features and important back-end changes to support future development.
+New Features  SOAP API IPv6 RADIUS support Improvements to helpdesk search Credit control actions on expiring credit cards, this allows expiring credit card notifications and more Smile’s RADIUS server may now be run on a separate server Support for RADIUS Disconnect Messages Credit control now supports sending reminders for individual invoices Support for Telstra Ebill and Infotranz New “Inactive Accounts” report allowing you to zero the balance of accounts that haven’t had a transaction recently Support for Australia Post Billpay Support for the “Payment Express” payment gateway Support for multiple “One of many” plan options  Enhancements  Improved user interface when entering adjustments It is now possible to email tickets as PDFs Many smaller improvements to the user interface  Noteworthy Bug Fixes  Search performance improvement Improved performance of some CAT activity pages  Please note that minor bug fixes and changes to custom code may not be included in the above release notes.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.2.6 is now in beta</title>
+      <link>http://inomial.tk/release-notes/smile-5-2-6-is-now-in-beta/</link>
+      <pubDate>Thu, 07 Jul 2011 14:40:34 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-2-6-is-now-in-beta/</guid>
+      <description>Smile 5.2.6 is now in beta. This is a maintenance release including key improvements and bug fixes.
+Enhancements  The transaction report may now filter on payment types Adds an action for cancelling all pending dispatches to the pending dispatch page Improves the Overdue Accounts report by adding more information that is useful for debt collection Smile can now raise helpdesk tickets and send notifications when importers fail  Noteworthy Bug Fixes  Fixes a race condition that sometimes caused duplicate data to be imported when retrying failed imports Fixes account type filtering on the banking report Fixes some problems dispatching printed declined notices and credit control reminders  Please note that minor bug fixes and changes to custom code may not be included in the above release notes.</description>
+    </item>
+    
+    <item>
+      <title>Smile 5.2.5 is now in beta</title>
+      <link>http://inomial.tk/release-notes/smile-5-2-5-is-now-in-beta/</link>
+      <pubDate>Tue, 24 May 2011 14:41:31 +0400</pubDate>
+      
+      <guid>http://inomial.tk/release-notes/smile-5-2-5-is-now-in-beta/</guid>
+      <description>We’ve just promoted Smile 5.2.5 to beta. Smile 5.2.5 is mostly a maintenance release, but there’re a couple of noteworthy new features:
+New Features  Work Queues view of the helpdesk This new feature gives a high level view of what’s going on in helpdesk. Changes to the Password Manager The password manager now allows you to search for subscriptions meaning you don’t have to look through a few pages to find the subscription whose password you need to change.</description>
+    </item>
+    
+  </channel>
+</rss>

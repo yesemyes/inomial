@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showcases on inomial</title>
+    <link>http://inomial.tk/showcase/</link>
+    <description>Recent content in Showcases on inomial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2017 13:04:40 +0400</lastBuildDate>
+    
+	<atom:link href="http://inomial.tk/showcase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://inomial.tk/showcase/test/</link>
+      <pubDate>Fri, 07 Jul 2017 13:04:40 +0400</pubDate>
+      
+      <guid>http://inomial.tk/showcase/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

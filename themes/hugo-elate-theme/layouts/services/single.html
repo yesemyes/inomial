@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+        {{ partial "head.html" .}}
+    </head>
+    <body>
+        {{ partial "nav-about.html" .}}
+        {{ if .Params.img }}
+        <div class="bg" style="position: absolute; top: 0; min-height: 500px; width: 100%; overflow: hidden;">
+
+            <div class="headerBGFon"></div>
+            <div class="post-background" style="position: absolute; top: 0; width: 100%; min-height: 500px; background-image: url({{ .Params.img }}); background-position: center center; background-repeat: no-repeat; background-size: cover; transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;"></div>
+  
+        </div>
+        {{ end }}
+		<section id="fh5co-services" data-section="services" {{ if .Params.img }} style="padding-top: 390px;" {{ end }}>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-left">
+						<h2 class="vagr{{ if .Params.img }} white {{ end }} left-border to-animate text-center">{{ with .Site.Params.services.title }}{{ . | markdownify }}{{ end }}</h2>
+						<div class="row">
+							<div class="col-md-12 subtext to-animate text-inner">
+								<p class="prNova">{{ with .Site.Params.services.description }}{{ . | markdownify }}{{ end }}</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+				{{ range .Site.Params.services.item }}
+					<div class="col-md-6 col-sm-6 section-heading-services fh5co-service to-animate">
+						<!-- <i class="icon to-animate-2 {{ .icon | markdownify }}"></i> -->
+						<img class="icon to-animate-2" src="/images/{{ .img }}" alt="{{ .title }}">
+						<h3 class="vagr">{{ .title | markdownify }}</h3>
+						<p class="prNova">{{ .description | markdownify }}</p>
+					</div>
+					<div class="clearfix visible-sm-block"></div>
+				{{ end }}
+				</div>
+			</div>
+		</section>
+
+		{{ if .Site.Params.footer.enable }}
+        	{{ partial "footer.html" .}}
+      	{{ end }}
+
+    	{{ partial "js.html" .}}
+    </body>
+</html>

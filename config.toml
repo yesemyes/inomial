@@ -1,0 +1,468 @@
+# Page settings 
+publishdir = "/"
+BaseURL = "http://inomial.tk/"
+canonifyURLs = true
+layoutDir = "layouts"
+title = "inomial"
+languageCode = "en-us"
+theme = "hugo-elate-theme"
+
+paginate = 2
+paginatePath = "page"
+
+paginator = 3
+
+[params]
+  # custom_css = ["css/custom1.css", "css/custom2.css"]
+
+  # Meta
+  author = ""
+  description = ""
+  email = "yesemyes1@gmail.com"
+  # Navigation
+  [params.navigation]
+    brand = "images/inomial-logo-rgb-72dpi-200px-allwhite.png"
+    logo = "images/inomial-logo.png"
+    home = "Home"
+    news = "News"
+    industries = "Industries"
+    solutions = "Solutions"
+    services = "Services"
+    subscribe = "Subscribe"
+    resources = "Resources"
+    about = "About"
+    contact = "Contact"
+
+    # You can add custom links before or after the default links
+    # Assign a weight to define the order
+    
+    # prepended links
+    #[[menu.prepend]]
+    #  url = "http://gohugo.io"
+    #  name = "Hugo"
+    #  weight = 10
+
+    # postpended links
+    #[[menu.postpend]]
+    #  url = "http://gohugo.io"
+    #  name = "External link"
+    #  weight = 10
+  
+  # Hero section
+  [params.hero]
+    title = "Integrate, Automate, Profit."
+    subtitle = "<p>Inomial is the creator of Smile - a modern, real-time, cloud based billing platform for digital service providers. Smile drives customer satisfaction and business growth while reducing costs by delivering accurate invoices every month, reducing billing errors and disputes, enabling customer self-service, and reducing bad debtors.</p><p>The Smile platform manages billing, invoicing, notifications, payment management and debt collection for both pre- and post-paid subscription services. Inomial's customers include traditional telcos and ISPs, LTE networks, media, IaaS and SaaS providers, OTT VoD, IoT and more.</p><p>Smile generates over $400,000,000 in annual recurring revenue for more than 60 customers in 7 countries.</p>"
+  
+
+
+  # Industries section
+  [params.industries]
+
+    [[params.industries.item]]
+      title = "Telecommunications"
+      description = "Wholesale and retail markets PSTN, mobile and termination post and pre-paid"
+      url = "telecommunications/"
+      img = "Industry-Telecommunications.png"
+
+    [[params.industries.item]]
+      title = "ISP"
+      description = "Wholesale and retail markets DSL, wireless and WiFi"
+      url = "isp/"
+      img = "Industry-ISP.png"
+
+    [[params.industries.item]]
+      title = "TV"
+      description = "Satellite and cable TV IPTV, DOCSIS Video-On-Demand"
+      url = "tv/"
+      img = "Industry-TV.png"
+
+    [[params.industries.item]]
+      title = "Media"
+      description = "Digital media providers subscription and on-demand"
+      url = "media/"
+      img = "Industry-Media.png"
+
+    [[params.industries.item]]
+      title = "Other Industries"
+      description = "Serviced offices only limited by your needs"
+      url = "other-industries/"
+      img = "Industry-Other.png"
+
+
+
+
+  # Intro section
+  # Available icons: http://simplelineicons.com/
+  [params.intro]
+
+  [[params.intro.item]]
+    title = "INTEGRATE"
+    description = "Integrate, manage and aggregate your different platforms – Smile software, hardware, services, vendors, agents and acquisitions – with Inomial’s tools, workflows, APIs, services and support. We provide everything your team needs to build an integrated, fully managed product catalog."
+    url = "/integrate"
+    button = "Learn More..."
+    icon = "icon-bulb"
+    img = "img_7.jpg"
+
+  [[params.intro.item]]
+    title = "AUTOMATE"
+    description = "Automatically enforce usage, contract and credit policies. Develop customer self sign-up, self service and self-help. Define business rules, workflows, policies, integrations and other tools to eliminate errors and avoid manual handling. Bill millions with a single click."
+    url = "/automate"
+    button = "Learn More..."
+    icon = "icon-wrench"
+    img = "img_8.jpg"
+
+  [[params.intro.item]]
+    title = "PROFIT"
+    description = "Drive profit through reduced support costs, accelerated subscription automation and onboarding, improved time to market for new products, improved cash flow, reduced bad debts, and increased customer satisfaction."
+    url = "/profit"
+    button = "Learn More..."
+    icon = "icon-rocket"
+    img = "img_10.jpg"
+
+  [params.intro.video]
+    enable = false
+    title = "Watch the video"
+    icon = "icon-play2"
+    url = "https://player.vimeo.com/video/126774833"
+
+  # Latest-News section
+  [params.latest]
+    enable = true
+    title = "Recent News"
+
+  # Work section
+  [params.work]
+    enable = true
+    title = "Our Clients"
+    description = "Our client list includes a who’s who of Australian and Pacific Island carriers, ISPs, VoD & Satellite TV, Managed service providers, and traditional media."
+    footertext = ''
+
+    [[params.work.row]]
+      img = "1-vocus.jpg"
+      alt = "Image2"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "2-internode.jpg"
+      alt = "Image2"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "3-ourtelekom.jpg"
+      alt = "Image3"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "4-tfl.jpg"
+      alt = "Image4"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "5-fetch.jpg"
+      alt = "Image5"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "6-lagoon.jpg"
+      alt = "Image6"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "7-zetta.jpg"
+      alt = "Image7"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "8-bendigo.jpg"
+      alt = "Image8"
+      title = ""
+      subtitle = ""
+
+    [[params.work.row]]
+      img = "9-broadband.jpg"
+      alt = "Image"
+      title = ""
+      subtitle = ""
+
+  # Subscribe section
+  [params.subscribe]
+    enable = true
+    title= "Subscribe"
+    description = "Subscribe to the Inomial mailing list to keep up-to-date on the latest news about Inomial and Smile software."
+
+    email = "Your email address *"
+    fname = "Your first name *"
+    lname = "Your last name *"
+    comp = "Your company *"
+    button = "Subscribe to list"
+
+
+
+  # Solutions section
+  [params.solutions]
+    enable = true
+    title = "Solutions"
+    description = "<p>Your billing works.</p> <p>Your plans and services are in place. Orders are managed through your workflow process. Customer information is recorded. Usage is collected in real-time and charges calculated. If usage limits are reached then your policy management rules take effect. Notifications and warnings go out when needed. Invoices are generated and sent. Electronic payments taken. Action is taken on delinquent accounts. Your contracts, number and IP inventory and commissions are all set. Your customers can even manage or change their plan needs themselves. Charges are adjusted and applied for plan changes without fuss. Your accounts people receive the reports they want. </p><p>You don’t need to touch anything, unless you want to.</p> <p>That’s zero-touch customer on-boarding, billing and service management.</p> <p>That’s automatic billing. That’s Smile software.</p>"
+    title_two = "Our Billing Automation Product Feature Sets"
+    description_two = "The following product feature sets are designed to perform automatic billing, rating, authentication or data collection:"
+
+    [[params.solutions.item]]
+      quote = "Smile Enterprise"
+      person = 'Jean Doe, CEO <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      img = "person1.jpg"
+      alt = "Person1"
+      desc = "Real-time integrated accounting, provisioning, helpdesk and CRM system. Reduce costs, improve the effectiveness of collections, improve cash flow with Smile software."
+      url = "smile"
+
+    [[params.solutions.item]]
+      quote = "Smile Pro"
+      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      img = "person2.jpg"
+      alt = "Person2"
+      desc = "Full-featured Smile software available as a cloud-based Software-as-a-Service."
+      url = "smile"
+
+    [[params.solutions.item]]
+      quote = "Revenue Assurance"
+      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      img = "person3.jpg"
+      alt = "Person3"
+      desc = "We address Revenue Assurance detection, correction, and prevention."
+      url = "revenue-assurance"
+
+    [[params.solutions.item]]
+      quote = "BigRating"
+      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      img = "person3.jpg"
+      alt = "Person3"
+      desc = "Real-time, scaleable and flexible voice and data rating and invoice generation for any kind of usage."
+      url = "bigrating"
+
+    [[params.solutions.item]]
+      quote = "Federadius"
+      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      img = "person3.jpg"
+      alt = "Person3"
+      desc = "High performance, fault tolerant, distributed RADIUS Authentication, Authorisation and Accounting (AAA)."
+      url = "federadius"
+
+    [[params.solutions.item]]
+      quote = "FlowControl"
+      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
+      img = "person3.jpg"
+      alt = "Person3"
+      desc = "Integrated NetFlow and SNMP polling collector and aggregator."
+      url = "flowcontrol"
+
+  # Solutions Smile
+  [params.solutions.smile]
+    title = "Smile Software Features"
+    desc = "Smile software has over 300 features that all contribute to the goal of automatic billing, policy management, reconciliation and settlement. You can make use of the features that you need to achieve your business goals."
+
+    [[params.solutions.smile.item]]
+      title = "Policy Management"
+      desc = "Call barring Shaping and throttling Access restriction"
+      url = "policy-management"
+      img = "Solution-Policy-Management.png"
+
+    [[params.solutions.smile.item]]
+      title = "Subscription Billing"
+      desc = "BigRating usage billing Advanced recurring billing Prepaid usage Termination, call collection, inbound and outbound call rating"
+      url = "subscription-billing"
+      img = "Solution-Subscription-Billing.png"
+
+    [[params.solutions.smile.item]]
+      title = "Accounts Receivable"
+      desc = "GL integration Payment automation Collection automation Multi-currency"
+      url = "accounts-receivable"
+      img = "Solution-Accounts-Receivable.png"
+
+    [[params.solutions.smile.item]]
+      title = "Subscriber Management"
+      desc = "Contract management IP inventory Number inventory Order management Commissions Video on demand / on demand charging"
+      url = "subscriber-management"
+      img = "Solution-Subscriber-Management.png"
+
+    [[params.solutions.smile.item]]
+      title = "CRM"
+      desc = "Ticketing Workflow management Notifications Spend and usage notifications TCP compliance"
+      url = "crm"
+      img = "Solution-CRM.png"
+
+    [[params.solutions.smile.item]]
+      title = "Integration"
+      desc = "Industry specific provisioning and integration Integration API Head end integration NAT/BRAS/DSLAM Softswitch"
+      url = "integration"
+      img = "Solution-Integration.png"
+
+    [[params.solutions.smile.item]]
+      title = "Customer Self-service"
+      desc = "Customer self-service portal Account and service signup Top-ups and prepaid Account Management"
+      url = "customer-self-service"
+      img = "Solution-Customer-Self-service.png"
+
+    [[params.solutions.smile.item]]
+      title = "Inter-carrier Billing"
+      desc = "Reconciliation and settlement Mediation"
+      url = "inter-carrier-billing"
+      img = "Solution-Inter-carrier-Billing.png"
+
+    [[params.solutions.smile.item]]
+      title = "Data Collection"
+      desc = "Federadius SNMP Flowcontrol Netflow Flowcontrol Mediation"
+      url = "data-collection"
+      img = "Solution-Data-Collection.png"
+
+    [[params.solutions.smile.item]]
+      title = "Analytics"
+      desc = "Data cubes Report builder Dashboard"
+      url = "analytics"
+      img = "Solution-Analytics.png"
+
+
+
+  # Services section
+  [params.services]
+    enable = true
+    title = "Services For Automated Billing"
+    description = "<p>Nobody cares more about getting your billing right than Inomial. We provide consulting, customisation, project management, migration and go-live services to ensure your automated billing project is a success.</p><p>Inomial develops software and provides services to support the goal of automatic billing, policy management, reconciliation and settlement. The foundation of Smile is a collection of SOAP APIs that allow for integration into your infrastructure, regardless of the platform. We believe Smile software should integrate with your business, not the other way around.</p><p>What operations or processes a customer wants to automate or replace will be different from business to business. Inomial works with you to determine business requirements and undertake gap analysis. We can plan your migration to Smile software from initial design, execution, through to ongoing support for evolving business models.</p><p>After the go-live, Inomial continues to provide the highest level of customer support in the industry, including technical assistance, electronic monitoring and 24×7 emergency support for serious issues. And if you need to talk to a developer all you need to do is call.</p><p><a  href='/contact'>Contact Inomial</a> to discuss your automated billing and subscription automation requirements.</p>"
+
+    [[params.services.item]]
+      title = "Business Analysis"
+      description = "<p>Identify your business needs and problems that need solutions.<br>Strategic planning.<br>Process and policy development.</p>"
+      icon = "icon-anchor"
+      img = "Service-Business-Analysis.png"
+
+    [[params.services.item]]
+      title = "Requirements Analysis"
+      description = "<p>Document actionable, measurable and testable<br> business needs.<br>Production of clear, complete and consistent<br> needs.</p>"
+      icon = "icon-layers2"
+      img = "Service-Requirements-Analysis.png"
+
+    [[params.services.item]]
+      title = "Gap Analysis"
+      description = "<p>Comparison of actual performance to expected<br> or desired performance.<br>Benchmarking.</p>"
+      icon = "icon-video2"
+      img = "Service-Gap-Analysis.png"
+
+      [[params.services.item]]
+      title = "Software Development"
+      description = "<p>Rapid and flexible development using Agile<br> methodologies.<br>Partner-driven, collaborative development.<br>Use of the most efficient, robust and flexible technologies.</p>"      
+      icon = "icon-monitor"
+      img = "Service-Software-Development.png"
+
+    [[params.services.item]]
+      title = "Project Management"
+      description = "<p>Adherence to Agile through Scrum.<br>Planning, implementation, monitoring and control.<br>Risk and resource management.</p>"      
+      icon = "icon-monitor"
+      img = "Service-Project-Management.png"
+
+    [[params.services.item]]
+      title = "Migration"
+      description = "<p>End-to-End planning and execution.<br>Conversion and integration.<br>Data verification and testing.</p>"      
+      icon = "icon-monitor"
+      img = "Service-Migration.png"
+
+    [[params.services.item]]
+      title = "Training"
+      description = "<p>Holistic training approach.<br>User and administration application training.<br>Mutual expectations of contract and project delivery.<br>Agile project methodology.</p>"      
+      icon = "icon-monitor"
+      img = "Service-Training.png"
+
+  # About section
+  [params.about]
+    enable = true
+    title = "About Inomial"
+    description = "<p>Inomial has been helping telcos and ISPs in the Asia-Pacific region since 1998. Based in Melbourne, Inomial designs, develops, deploys and supports a suite of telco billing, subscription automation, accounting and network monitoring solutions. Inomial provides these products and billing services to <a href='/industries/telecommunications'>telecommunication carriers</a>, <a href='/industries/isp'>internet service providers</a>, <a href='/industries/tv'>TV</a> and digital media distributors, and others.</p><p>Through a set of sophisticated, flexible and customisable web-based modular APIs, we help you achieve the goal of zero-touch customer on-boarding, subscription automation, automatic billing and service management.</p>"
+
+        
+
+  # News section
+  [params.news]
+    enable = false
+    title = "News Inomial"
+    description = "<p>Inomial has been helping telcos and ISPs in the Asia-Pacific region since 1998. Based in Melbourne, Inomial designs, develops, deploys and supports a suite of telco billing, subscription automation, accounting and network monitoring solutions. Inomial provides these products and billing services to telecommunication carriers, internet service providers, TV and digital media distributors, and others.</p><p>Through a set of sophisticated, flexible and customisable web-based modular APIs, we help you achieve the goal of zero-touch customer on-boarding, subscription automation, automatic billing and service management.</p>"
+
+  # Release-notes
+  [params.release]
+    enable = true
+    title = "Release Notes"
+
+ 
+
+  # Counters section
+  [params.counters]
+    enable = false
+    title = "Stats"
+    background = "full_image_1.jpg"
+
+    [[params.counters.item]]
+      description = "Finished projects"
+      icon = "icon-briefcase"
+      from = 0
+      to = 89
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Lines of code"
+      icon = "icon-code"
+      from = 0
+      to = 2343409
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Cups of coffee"
+      icon = "icon-cup"
+      from = 0
+      to = 1302
+      interval = 50
+      speed = 5000
+
+    [[params.counters.item]]
+      description = "Happy clients"
+      icon = "icon-people"
+      from = 0
+      to = 52
+      interval = 50
+      speed = 5000
+
+  # Contact section
+  [params.contact]
+    enable = true
+    map = false
+    title = "Get In Touch"
+    description = "Contact us today to get started with subscription automation and recurring billing."
+    
+    # Available icons: http://simplelineicons.com/
+    details = [
+        #["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
+        ["icon-envelope", "<a href='mailto:sales@inomial.com'>sales@inomial.com</a>"],
+        ["icon-phone", "+61 3 96633554"],
+        #["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+      ]
+
+    recent_news="Recent News"
+
+    membership="Memberships"
+    membership_img = "<img src='/images/Memberships.png' alt='Membership' style='max-width:100%'>"
+    accoms_img = "<img src='/images/accoms.png' alt='accoms' style='max-width:100%'>"
+
+    name = "Name"
+    email = "Email"
+    phone = "Phone"
+    message = "Message"
+    button = "Send message"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = '&copy; 2017 Inomial Pty Ltd &nbsp;•&nbsp; ABN 94 088 172 301 &nbsp;•&nbsp; DUNS 756873592 &nbsp;•&nbsp; <a href="/privacy-policy">Privacy Policy</a> <br>Suite 801, 620 Bourke Street, Melbourne VIC 3000'

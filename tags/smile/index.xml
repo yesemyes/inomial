@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smile on inomial</title>
+    <link>http://inomial.tk/tags/smile/</link>
+    <description>Recent content in Smile on inomial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2017 12:31:03 +0400</lastBuildDate>
+    
+	<atom:link href="http://inomial.tk/tags/smile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solutions</title>
+      <link>http://inomial.tk/solutions/</link>
+      <pubDate>Tue, 04 Jul 2017 12:31:03 +0400</pubDate>
+      
+      <guid>http://inomial.tk/solutions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

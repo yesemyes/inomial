@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+        {{ partial "head.html" .}}
+    </head>
+    <body>
+        {{ partial "nav-about.html" .}}
+        {{ if .Params.img }}
+        <div class="bg" style="position: absolute; top: 0; min-height: 500px; width: 100%; overflow: hidden;">
+
+            <div class="headerBGFon"></div>
+            <div class="post-background" style="position: absolute; top: 0; width: 100%; min-height: 500px; background-image: url({{ .Params.img }}); background-position: center center; background-repeat: no-repeat; background-size: cover; transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;"></div>
+  
+        </div>
+        {{ end }}
+        <section id="fh5co-about" data-section="about" {{ if .Params.img }} style="padding-top: 390px;" {{ end }}>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 section-heading text-center">
+              <h2 class="noneBg to-animate vagr{{ if .Params.img }} white {{ end }}">{{ with .Site.Params.about.title }}{{ . | markdownify }}{{ end }}</h2>
+              <div class="row">
+                <div class="col-md-8 col-md-offset-2 subtext to-animate prNova">
+                  {{ with .Site.Params.about.description }}{{ . | markdownify }}{{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+          {{ range .Site.Params.about.item }}
+            <div class="col-md-4">
+              <div class="fh5co-person text-center to-animate">
+                <figure><img src="/images/{{ .img }}" alt="{{ .alt }}"></figure>
+                <h3>{{ .name | markdownify }}</h3>
+                <span class="fh5co-position">{{ .position | markdownify }}</span>
+                <p>{{ .description | markdownify }}</p>
+                <ul class="social social-circle">
+                {{ range .social }}
+                  <li><a href="{{ index . 1 }}"><i class="{{ index .  0 }}"></i></a></li>
+                {{ end }}
+                </ul>
+              </div>
+            </div>
+          {{ end }}
+          </div>
+        </div>
+      </section>
+
+      
+
+      {{ if .Site.Params.footer.enable }}
+        {{ partial "footer.html" .}}
+      {{ end }}
+
+    {{ partial "js.html" .}}
+    </body>
+</html>
